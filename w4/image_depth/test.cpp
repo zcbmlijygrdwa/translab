@@ -8,11 +8,18 @@ using namespace std;
 using namespace cv;
 
 
-int main()
+int main(int argc, char** argv)
 {
 
     Mat image;
-    image = imread("img1.jpg");
+    if(argc==1)
+    {
+        image = imread("../../../../cvminecraft/data/image/img2.jpg");
+    }
+    else
+    {
+        image = imread(argv[1]);
+    }
 
     resize(image,image,Size(0,0),0.5,0.5);
 
@@ -32,7 +39,7 @@ int main()
         for(int j = 0;  j<cols ; j++)
         {
             Vec3b c = image.at<Vec3b>(i,j);
-            pcv.addColorPoint(i,j,(c.val[0]+c.val[1]+c.val[2]),c.val[0],c.val[1],c.val[2]);
+            pcv.addColorPoint(j,i,(c.val[0]+c.val[1]+c.val[2]),c.val[0],c.val[1],c.val[2]);
         }
     }
 
