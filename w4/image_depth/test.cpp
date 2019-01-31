@@ -1,4 +1,5 @@
 #include <iostream>
+#include <memory>
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/opencv.hpp>
@@ -11,24 +12,24 @@ using namespace cv;
 int main(int argc, char** argv)
 {
 
-    Mat image;
+    unique_ptr<Mat> image(new Mat());
     if(argc==1)
     {
-        image = imread("../../../../cvminecraft/data/image/img2.jpg");
+        *image = imread("../../../../cvminecraft/data/image/img2.jpg");
     }
     else
     {
-        image = imread(argv[1]);
+        *image = imread(argv[1]);
     }
 
-    resize(image,image,Size(0,0),0.5,0.5);
+    resize(*image,*image,Size(0,0),0.5,0.5);
 
-    imshow("img",image);
+    imshow("img",*image);
     waitKey(0);
 
     //extract depth and display as point cloud;
-    int rows = image.rows;
-    int cols = image.cols;
+    int rows = image->rows;
+    int cols = image->cols;
 
     cout<<"rows = "<<rows<<endl;
     cout<<"cols = "<<cols<<endl;
@@ -38,7 +39,7 @@ int main(int argc, char** argv)
     {
         for(int j = 0;  j<cols ; j++)
         {
-            Vec3b c = image.at<Vec3b>(i,j);
+            Vec3b c = image->at<Vec3b>(i,j);
             pcv.addColorPoint(j,i,(c.val[0]+c.val[1]+c.val[2]),c.val[0],c.val[1],c.val[2]);
         }
     }
