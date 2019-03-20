@@ -63,8 +63,8 @@ Flow[][] fields;
 
 
 void setup() {
-  //size(1200, 800);
-  fullScreen();
+  size(800, 800);
+  //fullScreen();
   frameRate(120);
   //dict = loadStrings("words.txt");
   dict = loadStrings("words4kids.txt");
