@@ -1,0 +1,190 @@
+//float c = 0;
+
+//stable floids
+//implement 
+
+
+ArrayList<String> tempWords = new ArrayList<String>();
+
+double mouseEffectRange = 100;
+//float c = 0;
+double mouseVelocityEffectRange = 5;
+
+int mouseX_prev = 0;
+int mouseY_prev = 0;
+
+
+double x = 150;
+double y = 150; 
+
+int screenX = 1200;
+int screenY = 500;
+
+int counter = 0;
+String temp = "";
+String tempAns = ""; 
+String[] tempPermu = new String[10000];
+;
+XML xml;
+
+Letter u;
+Letter c;
+Letter s;
+Letter b;
+Letter tempLetter;
+
+Letter[] letterSet = new Letter[10000];
+
+String[] dict;
+
+
+void setup() {
+  //size(1200, 500);
+  fullScreen();
+  //dict = loadStrings("words.txt");
+  dict = loadStrings("words4kids.txt");
+
+
+
+for(int k = 0; k<6;k++){
+
+  tempLetter = new Letter("a", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("b", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("c", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("d", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("e", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("f", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("g", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("h", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("i", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("j", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("k", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("l", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("m", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("n", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("o", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("p", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("q", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("r", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("s", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("t", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("u", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("v", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("w", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("y", 250, 250);addLetter(tempLetter, letterSet);
+  tempLetter = new Letter("z", 250, 250);addLetter(tempLetter, letterSet);
+  
+}
+
+
+
+  //letterSet[0] = s;
+  //letterSet[1] = b;
+  //print("test = "+s.getDistanceToMe(b.getX(), b.getY()));
+
+  //for(int i = 0;i < 40;i++){
+  // println("test = "+i+", "+letterSet[i]); 
+  //}
+
+  //println("=============");
+}
+
+
+void draw() {
+  
+  
+  background(255);
+
+  renderAllLeters(letterSet);
+
+  //println("=====frame== "+frameCount);
+
+  
+
+
+//avoid mouse
+  for (int i = 0; i<letterSet.length; i++) {
+    if (letterSet[i]!=null) {
+      if(getDistance(mouseX_prev-mouseX,mouseY_prev-mouseY,0,0)>mouseVelocityEffectRange){
+      if (letterSet[i].getDistanceToMe(mouseX, mouseY)<=mouseEffectRange) {
+        if (letterSet[i].getX()-mouseX<0) {
+          x = mouseX - (random((int)mouseEffectRange)+(int)mouseEffectRange);
+        } else {
+          x = mouseX + (random((int)mouseEffectRange)+(int)mouseEffectRange);
+        }
+
+        if (letterSet[i].getY()-mouseY<0) {
+          y = mouseY - (random((int)mouseEffectRange)+(int)mouseEffectRange);
+        } else {
+          y = mouseY + (random((int)mouseEffectRange)+(int)mouseEffectRange);
+        }
+        if (x<screenX&&x>0&&y<screenY&&y>0) {
+          letterSet[i].setTarget(x, y);
+        }
+      }
+    }
+    } else {
+      break;
+    }
+  }
+  // end of avoid mouse
+
+
+//come togather
+
+rect(420,450,5,5);
+rect(440,450,5,5);
+rect(400,450,5,5);
+
+  if(frameCount%700==0){
+   letterSet[1].setTarget(420,450);
+   letterSet[2].setTarget(440,450);
+   letterSet[3].setTarget(400,450);
+   }
+
+//end of coming togather
+
+
+
+  ////detecting word
+  for(int i = 0;i<letterSet.length;i++){
+    if (letterSet[i]!=null) {
+  temp = letterSet[i].sense(letterSet);
+  
+  if (temp.length()>1) {
+    //String[] tempWords  = getCombination(temp);
+    //for(int i = 0;i<tempWords.length;i++){
+    if (ifInDict(temp, dict)) {
+      println("find word! = "+temp);
+    }
+   // }
+  }
+    }
+  else {
+      break;
+    }
+  }
+  
+  
+  
+  
+  //prev zone
+  mouseX_prev = mouseX;
+  mouseY_prev = mouseY;
+  
+  
+}
+
+
+void keyPressed()
+{
+  if (keyAnalyzer(key).compareTo("LETTER") == 0 || keyAnalyzer(key).compareTo("NUMBER") == 0)
+  {
+    temp+=key;
+  }
+  if (keyCode == BACKSPACE)
+  {
+    //String temp2
+    temp = temp.substring(0, temp.length()-1);
+  }
+}

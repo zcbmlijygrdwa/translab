@@ -1,0 +1,1034 @@
+
+ 
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"/>
+<!--[if IE 8]>    <html class="ie ie8" lang="en" > <![endif]-->
+<!--[if IE 9]>    <html class="ie ie9" lang="en" > <![endif]-->
+<!--[if gt IE 9]> <html class="ie" lang="en" > <![endif]-->
+<!--[if !(IE)>    <html lang="en" > <![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<script>
+      (function(d, s) {
+        var js = d.createElement(s),
+            sc = d.getElementsByTagName(s)[0];
+
+        js.src = "//a.wattpad.com/js/boomerang.min.js?v=c00006c";
+        sc.parentNode.insertBefore(js, sc);
+        if (document.addEventListener) {
+          document.addEventListener( "onBoomerangLoaded", function(e) {
+            e.detail.BOOMR.init( {
+              beacon_url: '/v4/metrics',
+              beacon_type: 'POST',
+              autorun: false
+            } );
+          } );
+        }
+      }(document, "script"));
+    </script>
+<script>
+    var PREBID_TIMEOUT = 9999;
+
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    if ( PREBID_TIMEOUT !== 9999 ) {
+      (function () {
+          var d = document;
+          var pbs = d.createElement("script");
+          pbs.type = "text/javascript";
+          pbs.src = "//a.wattpad.com/js/prebid.min.js?v=76aed3a";
+          var target = d.getElementsByTagName("head")[0];
+          target.insertBefore(pbs, target.firstChild);
+      })();
+    }
+    </script>
+<meta charset="utf-8">
+<link rel="shortcut icon" href="//a.wattpad.com/favicon.ico"/>
+<title>RANDOM!!!!!!! - Funny and stupid questions to ask people - Wattpad</title>
+<link rel="next" href="https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people/page/2"/>
+<link rel="canonical" href="https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people"/>
+<meta name="description" content="I GOT REALLYYYYYYYYYYYYYY BORED JUST WEIRD FUNNY OR STUPID STUFF I FOUND ONLINE I OWN NOTHING!!!!"/>
+<meta name="keywords" content="carrot,carzy,cat,dog,everybody,hate,insane,love,monkey,parrot,pig,qoutes,quotes,salad,silly,Random,eBooks,reading,stories,fiction"/>
+<meta property="fb:pages" content="127093020051"/>
+<link rel="amphtml" href="https://www.wattpad.com/amp/20312947">
+<link rel="alternate" href="android-app://wp.wattpad/wattpad/story/6110828/part/20312947?utm_source=google&utm_medium=app_index">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="//a.wattpad.com/css/mobile-web/mobile-web.min-blessed1.css?v&#x3D;17e8d4e">
+<link rel="stylesheet" type="text/css" href="//a.wattpad.com/css/mobile-web/mobile-web.min.css?v&#x3D;eef6986">
+<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700' rel='stylesheet' type='text/css'>
+<script type="text/javascript">
+        var localStorageSupport = (function () {
+            var testKey = 'testKey', storageName = 'localStorage', storage;
+            try {
+            storage = window.localStorage;
+            storage.setItem(testKey, '1');
+            storage.removeItem(testKey);
+            return storageName in window && window[storageName];
+        } catch (error) {
+            return false;
+        }
+        }());
+        if (!localStorageSupport) {
+            window.localStorage = {
+                _data       : {},
+                setItem     : function(id, val) { return this._data[id] = String(val); },
+                getItem     : function(id) { return this._data.hasOwnProperty(id) ? this._data[id] : undefined; },
+                removeItem  : function(id) { return delete this._data[id]; },
+                clear       : function() { return this._data = {}; }
+            };
+        }
+        var sessionStorageSupport = (function () {
+            var testKey = 'testKey', storageName = 'sessionStorage', storage;
+            try {
+            storage = window.sessionStorage;
+            storage.setItem(testKey, '1');
+            storage.removeItem(testKey);
+            return storageName in window && window[storageName];
+        } catch (error) {
+            return false;
+        }
+        }());
+        if (!sessionStorageSupport) {
+            window.sessionStorage = {
+                _data       : {},
+                setItem     : function(id, val) { return this._data[id] = String(val); },
+                getItem     : function(id) { return this._data.hasOwnProperty(id) ? this._data[id] : undefined; },
+                removeItem  : function(id) { return delete this._data[id]; },
+                clear       : function() { return this._data = {}; }
+            };
+        }
+    </script>
+</head>
+<body class="js-app-off" dir='ltr'>
+<script type="text/javascript">
+      var getParameterByName =  function (name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&?#]*)"),
+          results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+      }
+      var search = [
+        {urlParam: 'utm_source', key: 'source'},
+        {urlParam: 'utm_medium', key: 'medium'},
+        {urlParam: 'utm_campaign', key: 'campaign'},
+        {urlParam: 'utm_content', key: 'content'},
+        {urlParam: 'wp_originator', key: 'originator'},
+        {urlParam: 'wp_uname', key: 'wp_username'},
+        {urlParam: 'wp_page', key: 'page'}
+      ];
+
+      window._utms = window._utms || {};
+      for (var i = 0; i < search.length; i++) {
+        var match = getParameterByName(search[i].urlParam);
+        if ( match !== "") {
+          window._utms[search[i].key] = match;
+        }
+      }
+    </script>
+<script type='text/javascript' src='//cdn.districtm.ca/merge/merge.v4.1.102953.js' async></script>
+<script type="text/javascript">window.dataLayer=[];</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WD9JLB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WD9JLB');</script>
+<script type='text/javascript'>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+          '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+      })();
+    </script>
+<script type="text/javascript">
+      (function() {
+        window.te = window.te || [];
+        var imgs = document.querySelectorAll( '.panel-reading p img' );
+
+        for(var i = 0; i < imgs.length; i++ ) {
+          imgs[i].addEventListener( 'error', function( evt ) {
+            window.te.push( 'event', 'reading', 'media', null, 'empty', {
+              storyid: 6110828,
+              partid: 20312947,
+              image_url: evt.currentTarget.getAttribute( 'src' ),
+              user_agent: wattpad.utils.getUserAgent( 100 )
+            } );
+          } );
+        }
+      }());
+    </script>
+<div id="modals"> <div id="generic-modal" class="modal fade" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="header-container">
+<div id="app-header" class="logged-out">
+<a href="/home" class="logo on-navigate">
+<img src="//a.wattpad.com/img/mobile-web/white_wattpad_icon.png">
+</a>
+<div class="search-field-container">
+<div class="search-field-view">
+<form id="search-form" method="GET" action="/search/" class="short">
+<div class="form-group has-feedback">
+<label for="search-query" class="control-label sr-only">Search by title or topic></label>
+<input id="search-query" name="query" type="search" autocomplete="off" spellcheck="false" autocorrect="off" autocapitalize="off" placeholder="Search by title or topic" value="">
+<span class="form-control-feedback">
+<button type="submit" class="btn-search on-search"><span class="fa fa-search fa-wp-grey " aria-hidden="true" style="font-size:18px;"></span></button>
+ 
+</span>
+</div>
+</form>
+</div>
+</div>
+<a href="/login?nexturl=/20312947-random-funny-and-stupid-questions-to-ask-people" class="on-navigate" rel="nofollow">
+<div class="avatar">
+<span class="fa fa-user fa-wp-white " aria-hidden="true" style="font-size:15px;"></span>
+</div>
+</a>
+</div>
+</div>
+<div id="app-container"> <div id="story-reading" class="container" oncontextmenu="return false;">
+<div id="funbar-container" class="row">
+<div id="funbar">
+<div id="funbar-story" class="dropdown">
+<button id="funbar-part-details" type="button" class="btn btn-toc dropdown-toggle" data-toggle="modal" data-target="#table-of-contents">
+<span class="cover cover-xxs">
+<img src="https://a.wattpad.com/cover/6110828-64-k981875.jpg" alt="RANDOM!!!!!!!">
+</span>
+<span class="info">
+<h1 class="title h5">
+RANDOM!!!!!!!
+</h1>
+<span class="author h6">by AllTimeNutella13</span>
+</span>
+<span class="fa fa-down fa-wp-lightergrey " aria-hidden="true" style="font-size:20px;"></span>
+</button>
+<div id="table-of-contents" class="tableOfContents modal fade" aria-labelledby="table-of-contents-modal-label" aria-hidden="true" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<header class="modal-header">
+<div class="pull-right close top-right" data-dismiss="modal">
+<span class="fa fa-remove-alt fa-wp-mediumgrey " aria-hidden="true" style="font-size:16px;"></span>
+</div>
+</header>
+<div class="modal-body">
+<div class="story-group">
+<div class="cover cover-sm">
+<a href="/story/6110828-random" class="on-navigate"><img src="https://a.wattpad.com/cover/6110828-64-k981875.jpg"></a>
+</div>
+<div class="info">
+<h2>
+<a href="/story/6110828-random" class="on-navigate">RANDOM!!!!!!!</a>
+</h2>
+<h4 class="author">by <a href="/user/AllTimeNutella13" class="on-navigate">AllTimeNutella13</a></h4>
+</div>
+</div>
+<ul class="table-of-contents list-unstyled">
+<li class="">
+<a class="on-navigate" href="/18379353-random">
+<span>RANDOM!!!!!!!
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/18380167-random-quotes-by-dr-suess">
+<span>Quotes by Dr.Suess
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/18381912-random-funny-quotes">
+<span>funny quotes
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20135190-random-quotes-about-me">
+<span>Quotes about me
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20174996-random-fighting">
+<span>Fighting
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20178854-random-10-reasons">
+<span>10 reasons:
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20178985-random-nobody-ever-told-you">
+<span>Nobody Ever Told You
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20179485-random-conversation-i-had-on-omegle">
+<span>Conversation i had on omegle
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20179667-random-police-where-do-you-live">
+<span>Police:Where Do You Live?
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20180906-random-maybe-im-insane">
+<span>Maybe im insane
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20184909-random-note">
+<span>NOTE!!!!
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20193440-random-for-those-with-a-dirty-mind-questions-just">
+<span>For those with a dirty mind Questions just to see
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20193965-random-how-to-tell-the-sex-of-a-fly">
+<span>How to tell the sex of a fly
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20195802-random-if-your-bored">
+<span>If your bored
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20317971-random-questions-feel-free-to-answer-lol">
+<span>random questions feel free to answer lol
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20240799-random-laugh-a-little">
+<span>laugh a little
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20310049-random-insults-use-at-you-own-risk">
+<span>Insults (Use at you own risk)
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20311249-random-what-guys-should-know-about-girls">
+<span>What guys should know about girls
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20312002-random-what-girls-should-know-about-guys-guys-p-o">
+<span>what girls should know about guys *Guys P.O.V*
+</span>
+</a>
+</li>
+<li class="active">
+<a class="on-navigate" href="/20312947-random-funny-and-stupid-questions-to-ask-people">
+<span>Funny and stupid questions to ask people
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20317561-random-funny-and-cute-stuuf">
+<span>Funny and cute stuuf
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20329012-random-facts-found-online">
+<span>Random Facts Found Online
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20329398-random-curing-boredom-since-2013">
+<span>Curing boredom since 2013
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20331229-random-cute-and-funny-things-to-say-to-a-girl-pay">
+<span>Cute and Funny things to say to a girl *Pay attention guys*
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20368277-random-what-your-eye-color-mean%27s">
+<span>What your eye color mean&#x27;s
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20372383-random-your-zodiac-sign-and-personality">
+<span>Your Zodiac Sign and Personality
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20663086-random-request">
+<span>Request
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20664031-random-north-carolina-stupid-laws">
+<span>North Carolina Stupid Laws
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20804569-random-texas-stupid-laws">
+<span>Texas stupid laws
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/20805009-random-tennessee-stupid-laws">
+<span>Tennessee stupid Laws
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/21625319-random-more-quotes">
+<span>More Quotes
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/70983801-random-holy-crap-it-note-time">
+<span>!!!!HOLY CRAP IT NOTE TIME!!!!!!!!!!!!
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/71005261-random-conspiracies">
+<span>...Conspiracies...
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/71016365-random-think-about-it">
+<span>Think about it...
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/81159190-random-note">
+<span>NOTE!!!
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/83673663-random-questions-to-ask-people">
+<span>Random questions to ask people....
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/83678807-random-deep-questions">
+<span>Deep Questions
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/83679948-random-important-another-boring-butt-note-sorry-d">
+<span>IMPORTANT!!!!!!!! ANOTHER BORING BUTT NOTE!!! SORRY :D
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/130623605-random-nothings-changed">
+<span>Nothings changed
+</span>
+</a>
+</li>
+<li class="">
+<a class="on-navigate" href="/167079836-random-serious-topic-worth-the-read">
+<span>Serious Topic; Worth the Read
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="funbar-controls">
+<div class="button-group relative inline-block">
+<button class="btn btn-story-lists btn-sm btn-orange" data-story-id="6110828">
+<span class="fa fa-plus fa-wp-white " aria-hidden="true" style="font-size:10px;"></span>
+</button>
+</div>
+<div class="button-group relative inline-block">
+<button class="btn btn-link on-vote" data-story-id="20312947">
+<span class="fa fa-vote fa-wp-lightergrey " aria-hidden="true" style="font-size:16px;"></span>
+<span class="hidden-mobile hidden-xs hidden-sm story-vote">Vote</span>
+</button>
+<div id="vote-tool-tip" data-toggle="tooltip" data-placement="bottom" data-original-title="There was an error registering your vote"></div>
+</div>
+</div>
+<div id="funbar-reading-progress">
+<div id="progressbar"></div>
+<div id="progresstooltip" data-toggle="tooltip" data-placement='bottom'></div>
+</div>
+</div>
+</div>
+<main id="parts-container-new">
+<article id="sp20312947" data-part-id="20312947" data-part-url="https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people" class="story-part">
+<div id="media-container">
+<div class="media-wrapper">
+<div class="hover-wrapper" style="background-image: url(https://a.wattpad.com/bcover/6110828-1920-k981875.jpg);">
+<div class="background-lg media background hasStoryInfo">
+<span class="fa fa-left fa-wp-white btn btn-link on-prev-media hidden-sm hidden-xs invisible" aria-hidden="true" style="font-size:24px;"></span>
+<div data-index="0" class="media-item story-info">
+<img class="cover" src="https://a.wattpad.com/cover/6110828-288-k981875.jpg" alt=""/>
+<div class="text">
+<p class="item-header">YOU ARE READING</p>
+<h3 class="item-title">RANDOM!!!!!!!</h3>
+<a class="item-category on-navigate" href='/stories/random'>Random</a>
+<p class="item-description">I GOT REALLYYYYYYYYYYYYYY BORED JUST WEIRD FUNNY OR STUPID STUFF I FOUND ONLINE I OWN NOTHING!!!!</p>
+<p class="item-tags">
+<span class="tag"><a class="on-navigate" href="/tags/carrot"><s>#</s><strong>carrot</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/carzy"><s>#</s><strong>carzy</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/cat"><s>#</s><strong>cat</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/dog"><s>#</s><strong>dog</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/everybody"><s>#</s><strong>everybody</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/hate"><s>#</s><strong>hate</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/insane"><s>#</s><strong>insane</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/love"><s>#</s><strong>love</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/monkey"><s>#</s><strong>monkey</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/parrot"><s>#</s><strong>parrot</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/pig"><s>#</s><strong>pig</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/qoutes"><s>#</s><strong>qoutes</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/quotes"><s>#</s><strong>quotes</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/salad"><s>#</s><strong>salad</strong></a></span>
+<span class="tag"><a class="on-navigate" href="/tags/silly"><s>#</s><strong>silly</strong></a></span>
+</p>
+</div>
+</div>
+<span class="fa fa-right fa-wp-white btn btn-link on-next-media hidden-sm hidden-xs invisible" aria-hidden="true" style="font-size:24px;"></span>
+<ol class="carousel-indicators">
+<li class="icon-container"><span class="fa fa-flag fa-wp-lightergrey on-report-image-banner " aria-hidden="true" style="font-size:12px;"></span></li>
+<li class="icon-container">
+<a href="https://www.facebook.com/sharer.php?u&#x3D;https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dfacebook%26utm_content%3Dshare_reading" class="social-share" id="share-header-media-facebook" data-gtm-action="shareinlinemedia:facebook" data-share-channel="facebook" target="_blank" title="Share on Facebook">
+<span class="fa fa-facebook fa-wp-white on-share-image-banner facebook " aria-hidden="true" style="font-size:12px;"></span>
+</a>
+</li>
+<li class="icon-container">
+<a href="https://www.pinterest.com/pin/create/button/?media&#x3D;undefined&amp;description&#x3D;+%23wattpad+%23random+I+GOT+REALLYYYYYYYYYYYYYY+BORED+JUST+WEIRD+FUNNY+OR+STUPID+STUFF+I+FOUND+ONLINE+I+OWN+NOTHING%21%21%21%21&amp;url&#x3D;https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dpinterest%26utm_content%3Dshare_reading" class="social-share" id="share-header-media-pinterest" data-gtm-action="shareinlinemedia:pinterest" data-share-channel="pinterest" target="_blank" title="Share on Pinterest">
+<span class="fa fa-pinterest fa-wp-white on-share-image-banner pinterest " aria-hidden="true" style="font-size:12px;"></span>
+</a>
+</li>
+</ol>
+</div>
+</div>
+<div class="media-fields-underlay"></div>
+</div>
+</div>
+<div class="container">
+<div class="row part-header">
+<div class="col-sm-12 col-md-7 col-lg-8 col-md-offset-1 col-lg-offset-2">
+<header class="panel panel-reading text-center">
+<h2>Funny and stupid questions to ask people
+</h2>
+<div class="story-stats">
+<span class="reads" data-toggle="tooltip" data-placement="bottom" title="1,017,292 Read">
+<span class="fa fa-view fa-wp-grey " aria-hidden="true" style="font-size:14px;"></span> 1M
+</span>
+<span class="votes">
+<span class="fa fa-vote fa-wp-grey " aria-hidden="true" style="font-size:14px;"></span> 237
+</span>
+<span class="comments on-comments">
+<span class="fa fa-comment fa-wp-grey " aria-hidden="true" style="font-size:14px;"></span>
+<a href='#'>112</a>
+</span>
+</div>
+<div class="author hidden-lg">
+<a class="on-navigate avatar avatar-sm center-block" href="/user/AllTimeNutella13">
+<img class="on-hover" data-toggle="tooltip" data-placement="right" title="Writer: AllTimeNutella13" alt="Writer: AllTimeNutella13" src="https://a.wattpad.com/useravatar/AllTimeNutella13.32.30893.jpg">
+</a>
+by <a class='on-navigate' href='/user/AllTimeNutella13'>AllTimeNutella13</a></a>
+</div>
+<div class="meta">
+<ul class="story-extras">
+</ul>
+</div>
+</header>
+</div>
+</div>
+<div oncontextmenu="return false;" class="row part-content">
+<div class="col-md-1 col-lg-3 hidden-sm hidden-xs left-rail">
+</div>
+<div class="page col-sm-12 col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2" id="sp1-pg1" data-page-number="1">
+<div class="panel panel-reading" dir='ltr'>
+<pre><p data-p-id="a7a7886dc134801fb828f9a92ae7baa9">~~~What happens when you get &apos;scared half to death&apos; twice?</p>
+                              <p data-p-id="d4ff917e5c36098a9b38b7926a63b0c4">~~~Is it true cannibals don&apos;t eat clowns because they taste funny?</p>
+                              <p data-p-id="8c769c6f3e75096b6b3ae48bb7ea55d2">~~~If all the world&apos;s a stage, where does the audience sit?</p>
+                              <p data-p-id="32923eb1414731f92c8ba8a1f469c40a">~~~It it&apos;s tourist season why can&apos;t we shoot them?</p>
+                              <p data-p-id="f1e95fbf8835ce1da32fe8bc8173c6af">~~~Why are the alphabets in the order that they are? Is it because it&apos;s a song?</p>
+                              <p data-p-id="9fd6b1288e56e0a4a2d4439fb9134b71">~~~If you write a book about failure, and it doesn&apos;t sell, is it called success?</p>
+                              <p data-p-id="c27c3d192234f9ffdc299e360821e97d">~~~If work is so terrific, how come you get paid for it?</p>
+                              <p data-p-id="be28a00f9bbd19e7f89f6dc566d614a0">~~~If one synchronized swimmer drowns, do the others drown too?</p>
+                              <p data-p-id="5743fd29b5f4c1d57d48901200670fed">~~~Are the good things that come to people who wait, the leftovers of people who went before them?</p>
+                              <p data-p-id="2f541449589c936331ac5951b962f85c">~~~Why did Yankee Doodle name the feather in his hat Macaroni?</p>
+                              <p data-p-id="611d15d78e68832afdf84a2ebb49b8c7">~~~Isn&apos;t Disney World a people trap operated by a mouse?</p>
+                              <p data-p-id="1aacb3c97d26e77b0bf464251fc8aa5f">~~~If electricity comes from electrons, does morality comes from morons?</p>
+                              <p data-p-id="ba03debbf9de70b8aa578ca270a14ccb">~~~Why aren&apos;t blueberries blue?</p>
+                              <p data-p-id="bcea54dd788e8756daf488349820cad2">~~~Why is Greenland called Greenland, when it&apos;s white and covered with ice?<br>&#xA0;<br> ~~~Why is the word for &quot;a fear of long words,&quot; hippopotomonstrosesquippedaliophobia, so long?</p>
+                              <p data-p-id="96ce36dcf8eb91b5d5a0b1f73e0a6e63">~~~Why does someone believe you when you say there are four billion stars, but check when you say the paint is wet?</p>
+                              <p data-p-id="0c9b9f063b43d7398a42c7ac9bd6b805">~~~What if Batman gets bitten by a vampire?</p>
+                              <p data-p-id="aa11fd2e5fab28827c6808d96be896e3">~~~Did the Mayans get bored after reaching 2012 or is the predication for real?</p>
+                              <p data-p-id="d2f53b211798ec97a45d41079baf01e2">~~~Can we spell creativity however we want?</p>
+                              <p data-p-id="38b86c8b01573115c191f8d5cb8e02ed">~~~Do infants enjoy infancy as much as adults enjoy adultery?</p>
+                              <p data-p-id="c6ab931bc28d2a0b55ae9c3edf9117f3">~~~Where are all the mentally handicapped parking spaces for people like me?</p>
+                              <p data-p-id="8adea4cbd83dc9caa4144fded7f38058">~~~Has your mate ever called you at work to ask where the remote control is?</p>
+                              <p data-p-id="891e5977a966952b17ac9b67ca88e65e">~~~Was the person who invented the Express Lane at the grocery store properly thanked?</p>
+                              <p data-p-id="0b67e889fb4bd16b735680cba0f03358">~~~Why don&apos;t you ever see ads for advertising companies?</p>
+                              <p data-p-id="d99db6ef9f6465aaedcab3db19c6000e">~~~Why is it that when things get wet they get darker, even though water is clear?</p>
+                              <p data-p-id="26a662eff3d5603e78b8a25e9ab8adee">~~~If a fork were made of gold would it still be considered silverware?</p>
+                              <p data-p-id="00dabff5e02a04e7081b3f41376fb25d">~~~Why isn&apos;t chocolate considered a vegetable, if chocolate comes from cocoa beans, and all beans are a vegetable?<br><br>~~~If something &quot;goes without saying,&quot; why do people still say it?</p>
+                              <p data-p-id="529efba29d7930e8ba295292d80220f8">~~~You know the expression, &quot;Don&apos;t quit your day job?&quot; Well what do you say to people that work nights?</p>
+                              <p data-p-id="27ea0d34a4763a36a6416c4ff4e8710a">~~~Why is the 0 on a phone after 1 and not before 1?</p>
+                              <p data-p-id="5266d694bf6fa1b7849491afaef435dc">~~~Why do all the superheroes wear underpants on the outside?</p>
+                              <p data-p-id="bae20f608a8dfaee42255aece706ed74">~~~If the president were gay, would his husband be the first man?</p>
+                              <p data-p-id="abd000ed5d41f4c19ead38ce7de8e593">~~~If you were a genie and a person asked you this wish, &quot;I wish you would not grant me this wish&quot; what would you do?</p>
+                              <p data-p-id="dcf6d9f447cf59e87b5d89faaace05e6">~~~Did Noah have woodpeckers on the ark? If he did, where did he keep them?</p>
+                              <p data-p-id="2337895c6b09355a34829f28e17fab82">~~~Why don&apos;t the hairs on your arms get split ends?</p>
+                              <p data-p-id="626723795ff376ccd87dfd63d5d0dda6">~~~Do pyromaniacs wear blazers?</p>
+                              <p data-p-id="4721e36489c54d5596801598b16d118a">~~~If you don&apos;t pay your exorcist, do you get repossessed?</p>
+                              <p data-p-id="58c5c87460b86e7780b36d2a697d521c">~~~When something is funny why is it called a &quot;knee-slapper&quot; when you actually slap your thigh?</p>
+                              <p data-p-id="5c176cc36c07453b140b0c931b093ae2">~~~Why do we teach kids that violence is not the answer and then have them read about wars in school that solved America&apos;s problems?</p></pre>
+</div>
+</div>
+<div id="tooltip-container"></div>
+</div>
+</div>
+<footer>
+<div class="center-block">
+<div id="reading_banner_mweb-1487293299196" class="advertisement banner_mweb lazyAd" style="width:320px;height:auto"><script type="text/javascript">(function(){ window.adSlots = window.adSlots || [];googletag.cmd.push(function() {window.adSlots["reading_banner_mweb-1487293299196"] = googletag.defineSlot("/3248126/reading_banner_mweb", [[320, 100], [320, 50], [300, 50]],"reading_banner_mweb-1487293299196").addService(googletag.pubads()).setTargeting("partRating", ["3"]).setTargeting("storyRating", ["3"]).setTargeting("Category", ["19"]).setTargeting("Language", ["1"]).setTargeting("rankingStatus", ["100plus"]).setTargeting("HB", ["districtm"]);googletag.pubads().disableInitialLoad();googletag.enableServices();googletag.display("reading_banner_mweb-1487293299196");});})();</script></div>
+<div class="container">
+<div class="row part-content">
+<div class="col-sm-10 col-sm-offset-1 col-md-7 col-md-offset-1 col-lg-6 col-lg-offset-3">
+<div id="part-footer-actions" class="actions" role="menu">
+<div class="footer-actions">
+<div class="button-group inline-block">
+<button class="btn btn-text btn-md dropdown-toggle btn-story-lists" data-story-id="6110828">
+<span class="fa fa-plus fa-wp-mediumgrey " aria-hidden="true" style="font-size:16px;"></span>
+<span class="btn-library-text">Add</span>
+</button>
+</div>
+<div class="button-group inline-block">
+<button class="btn btn-text btn-md on-vote footer-vote" data-story-id="20312947">
+<span class="fa fa-vote fa-wp-mediumgrey " aria-hidden="true" style="font-size:16px;"></span>
+<span class="vote-text">Vote</span>
+</button>
+</div>
+</div>
+<div class="share-tools scrolling">
+<a data-gtm-action="share:facebook" class="share-facebook social-share" target="_blank" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dfacebook%26utm_content%3Dshare_reading" data-share-channel="facebook">
+<span class="fa fa-facebook fa-wp-white " aria-hidden="true" style="font-size:18px;"></span>
+</a>
+<a data-gtm-action="share:twitter" class="share-twitter social-share" target="_blank" href="https://twitter.com/intent/tweet?text=RANDOM%21%21%21%21%21%21%21+-+Funny+and+stupid+questions+to+ask+people+%23wattpad&url=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dtwitter%26utm_content%3Dshare_reading" data-share-channel="twitter" data-share-url="https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Ftext%3D%25s%26url%3D%25s" data-url="https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people" data-share-text="RANDOM%21%21%21%21%21%21%21+-+Funny+and+stupid+questions+to+ask+people+%23wattpad" data-share-content="share_reading">
+<span class="fa fa-twitter fa-wp-white " aria-hidden="true" style="font-size:18px;"></span>
+</a>
+<a data-gtm-action="share:pinterest" class="share-pinterest social-share" target="_blank" href="https://www.pinterest.com/pin/create/button/?media=https%3A%2F%2Fa.wattpad.com%2Fcover%2F6110828-256-k981875.jpg&description=+%23wattpad+%23random+I+GOT+REALLYYYYYYYYYYYYYY+BORED+JUST+WEIRD+FUNNY+OR+STUPID+STUFF+I+FOUND+ONLINE+I+OWN+NOTHING%21%21%21%21&url=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dpinterest%26utm_content%3Dshare_reading" data-share-channel="pinterest">
+<span class="fa fa-pinterest fa-wp-white " aria-hidden="true" style="font-size:18px;"></span>
+</a>
+<a data-gtm-action="share:tumblr" class="share-tumblr social-share" target="_blank" href="https://tumblr.com/widgets/share/tool?posttype=photo&content=https%3A%2F%2Fwww.wattpad.com%2Fbanner%3Fid%3D6110828&caption=%3Cb%3ERANDOM%21%21%21%21%21%21%21+-+Funny+and+stupid+questions+to+ask+people%3C%2Fb%3E+%28on+Wattpad%29+https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dtumblr%26utm_content%3Dshare_reading%0A%0AI+GOT+REALLYYYYYYYYYYYYYY+BORED+JUST+WEIRD+FUNNY+OR+STUPID+STUFF+I+FOUND+ONLINE+I+OWN+NOTHING%21%21%21%21&tags=carrot%2Ccarzy%2Ccat%2Cdog%2Ceverybody%2Chate%2Cinsane%2Clove%2Cmonkey%2Cparrot%2Cpig%2Cqoutes%2Cquotes%2Csalad%2Csilly%2Crandom%2Cbooks%2Cwattpad%2Camreading&canonicalUrl=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people&clickthroughUrl=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dtumblr%26utm_content%3Dshare_reading" data-share-channel="tumblr" data-share-url="https%3A%2F%2Ftumblr.com%2Fwidgets%2Fshare%2Ftool%3Fposttype%3Dphoto%26content%3Dhttps%253A%252F%252Fa.wattpad.com%252Fcover%252F6110828-256-k981875.jpg%26caption%3D%25s%26tags%3Dcarrot%252Ccarzy%252Ccat%252Cdog%252Ceverybody%252Chate%252Cinsane%252Clove%252Cmonkey%252Cparrot%252Cpig%252Cqoutes%252Cquotes%252Csalad%252Csilly%252Crandom%252Cbooks%252Cwattpad%252Camreading%26canonicalUrl%3Dhttps%253A%252F%252Fwww.wattpad.com%252F20312947-random-funny-and-stupid-questions-to-ask-people%26clickthroughUrl%3D%25s" data-url="https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people" data-share-text="%3Cb%3ERANDOM%21%21%21%21%21%21%21+-+Funny+and+stupid+questions+to+ask+people%3C%2Fb%3E+%28on+Wattpad%29+%25s%0A%0AI+GOT+REALLYYYYYYYYYYYYYY+BORED+JUST+WEIRD+FUNNY+OR+STUPID+STUFF+I+FOUND+ONLINE+I+OWN+NOTHING%21%21%21%21" data-share-content="share_reading">
+<span class="fa fa-tumblr fa-wp-white " aria-hidden="true" style="font-size:18px;"></span>
+</a>
+<a data-gtm-action="share:post-to-profile" class="share-post-to-profile" href="/" data-share-channel="post-to-profile">
+<span class="fa fa-user fa-wp-white " aria-hidden="true" style="font-size:18px;"></span>
+</a>
+<div class="button-group relative inline-block more">
+<button class="btn btn-no-background dropdown-toggle btn-left-align" data-toggle="dropdown">
+<span class="fa fa-more fa-wp-lightergrey " aria-hidden="true" style="font-size:18px;"></span>
+</button>
+<div class="triangle"></div>
+<ul class="dropdown-menu">
+<li>
+<a data-gtm-action="share:google_plus" rel="nofollow" class="share-google_plus social-share" target="_blank" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dgoogle_plus%26utm_content%3Dshare_reading" data-share-channel="google_plus">
+<span class="fa fa-google-plus fa-wp-mediumgrey pull-left" aria-hidden="true" style="font-size:20px;"></span> Share via Google+
+</a>
+</li>
+<li>
+<a data-gtm-action="share:email" rel="nofollow" class="share-email social-share" target="_blank" href="mailto:?subject=RANDOM%21%21%21%21%21%21%21%20-%20Funny%20and%20stupid%20questions%20to%20ask%20people&body=RANDOM%21%21%21%21%21%21%21%20-%20Funny%20and%20stupid%20questions%20to%20ask%20people%0Ahttps%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Demail%26utm_content%3Dshare_reading" data-share-channel="email">
+<span class="fa fa-inbox fa-wp-mediumgrey pull-left" aria-hidden="true" style="font-size:20px;"></span> Share via Email
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="orange" id="footer">
+<a class="on-load-more-page load-more-page next-up hidden" href="https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people/page/2">
+<div class="next-up-title"><h6 class="page-title">Load More Pages...</h6></div>
+<span class="fa fa-down fa-wp-white next-up-icon pull-right" aria-hidden="true" style="font-size:16px;"></span>
+</a>
+<div class="next-up next-part hidden">
+<span>Continue Reading the Next Part</span>
+<span class="fa fa-right fa-wp-white next-up-icon" aria-hidden="true" style="font-size:16px;"></span>
+</div>
+</div>
+<div class="container">
+<div class="row part-content">
+<div class="col-sm-10 col-sm-offset-1 col-md-7 col-md-offset-1 col-lg-6 col-lg-offset-3">
+<div id="comments-container" class="container">
+<div class="row">
+<div class="col-sm-12 col-md-12 col-lg-12 col-lg-offset-0">
+<section id="comments">
+<div class="comments">
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden similar-stories-container">
+<h4 class="section-heading">You&#x27;ll also like</h4>
+<div id="similar-stories"></div>
+</div>
+</footer>
+</article>
+</main>
+<div id="inline-comments-modal"></div>
+<div data-story-id="6110828" class="addToLibraryModal modal fade" aria-hidden="true" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<header class="modal-header">
+<h1 class="modal-title">RANDOM!!!!!!!</h1>
+<h2>Add to Reading List</h2>
+<div class="close" data-dismiss="modal">
+<span class="fa fa-remove fa-wp-white " aria-hidden="true" style="font-size:17px;"></span>
+</div>
+</header>
+<div class="modal-body">
+<ul id="add-to-list" class="lists-menu list-unstyled" data-story-id="6110828"></ul>
+<ul class="lists-menu list-unstyled">
+<li><a class="create-list-button" href data-target=".addToLibraryListNameModal[data-story-id=6110828]" data-toggle="modal">
+<span class="fa fa-plus fa-wp-orange " aria-hidden="true" style="font-size:14px;"></span>
+<span class="reading-list-name">New Reading List</span>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div data-story-id="6110828" class="addToLibraryListNameModal modal fade" aria-hidden="true" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<header class="modal-header">
+<h1 class="modal-title">New Reading List</h1>
+</header>
+<div class="modal-body">
+<div class="inputs">
+<div class="error-feedback">
+<span class="fa fa-warning fa-wp-errorbackground " aria-hidden="true" style="font-size:16px;"></span>
+Please name your reading list
+</div>
+<input type="text" class="form-control list-name" placeholder="Enter Reading List name">
+</div>
+</div>
+<div class="buttons clearfix">
+<button type="button" class="btn btn-md btn-grey" data-dismiss="modal">Cancel</button>
+<button type="button" class="on-create-list btn btn-md btn-orange" data-story-id="6110828" data-dismiss="modal">Create</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer id="footer-container" class="container">
+<div class="row">
+<a class="on-view-full-site" href="/20312947-random-funny-and-stupid-questions-to-ask-people">
+<div class="col-xs-10"><h6>View Full Site</h6></div>
+<div class="col-xs-2"><span class="fa fa-right-small fa-wp-white " aria-hidden="true" style="font-size:16px;"></span></div>
+</a>
+</div>
+<div class="row">
+<div class="col-xs-10"><h6><a href="/settings/language?jq=true" class="on-language" title="Language" rel="nofollow" aria-label="Language">Language</a></h6></div>
+<div class="col-xs-2"><span class="fa fa-right-small fa-wp-white " aria-hidden="true" style="font-size:16px;"></span></div>
+</div>
+<div class="row">
+<a class="on-report" href="/help/content?message&#x3D;I+am+reporting+the+following+content%3A%0A&amp;story_link&#x3D;https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people">
+<div class="col-xs-10"><h6>Report Story</h6></div>
+<div class="col-xs-2"><span class="fa fa-right-small fa-wp-white " aria-hidden="true" style="font-size:16px;"></span></div>
+</a>
+</div>
+<div class="row get-app">
+<a class="on-download-app" href="[object Object]">
+<h6>Get the App</h6>
+<p></p>
+</a>
+</div>
+</footer>
+<div id="bottom-banner-container" class="container">
+<div class="bottom-banner dismissible">
+<div class="bottom-content"><img src="https://a.wattpad.com/cover/6110828-64-k981875.jpg" alt="RANDOM!!!!!!!"><span class="bottom-message">Read this story for FREE!</span></div>
+<div class="bottom-controls">
+<button class="btn bottom-login" data-form="login">Log in</button><button class="btn bottom-signup" data-form="signup">Sign Up</button>
+</div>
+<div class="dismiss"><span class="fa fa-remove fa-wp-darkgrey " aria-hidden="true" style="font-size:16px;"></span></div>
+</div>
+</div>
+<div id="interstitial-container" class="container"></div>
+<div id="toast-container"></div>
+<div id="ad-bait" class="pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links">&nbsp;</div>
+<script type="text/javascript">
+        window.prefetched = {"part.20312947.metadata":{"data":{"id":20312947,"title":"Funny and stupid questions to ask people","url":"https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people","rating":3,"draft":false,"modifyDate":"2013-11-16T22:45:50Z","length":7620,"videoId":"","photoUrl":"","commentCount":112,"voteCount":237,"readCount":1017292,"cast":[],"dedication":{},"pages":2,"wordCount":1524,"text_url":{"text":"https://s.wattpad.com/20312947-e6252c965?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zLndhdHRwYWQuY29tLzIwMzEyOTQ3LSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE0ODcyOTM4OTh9fX1dfQ==&Signature=N0zNdmEsBRfwd3bdFNka8eQpQVfMflg6pTRZb7PVz9KQaPpb2pQaRk6JobM~5KCSIJ7jS5799qDm9vE-AH8TLd1EG3OWcIfBGZPBUyZYkRIz7NK-xKGfFJLO8RpEYEqlR5xhdvpuhCn5aYRSxGoVOJcdDFulZdm~~FTwbMnYJIv2FxYlwinx0IxY4cHPfJyHpZtftvJGAoo9EvaDsOrQ5wn~2I5TqwEyduV-Ew-42YRVlSn6W8mIhPZNWjF0fQ6sW3vs5nmdtVlj5YOcP04xo-lp3YVd-onlkcVGQSEkHOIsrrvUqQ~r7USpnHMksjysdibiTD70E95sSYkbFaDYPg__&Key-Pair-Id=APKAJ54QS7Z2QYNU76UQ","refresh_token":"https://api.wattpad.com/v4/parts/20312947/token"},"source":{"url":"","label":"External Link"},"group":{"id":"6110828","title":"RANDOM!!!!!!!","language":{"id":1,"name":"English"},"user":{"name":"AllTimeNutella13","avatar":"https://a.wattpad.com/useravatar/AllTimeNutella13.128.30893.jpg","username":"AllTimeNutella13","twitter":null},"description":"I GOT REALLYYYYYYYYYYYYYY BORED JUST WEIRD FUNNY OR STUPID STUFF I FOUND ONLINE I OWN NOTHING!!!!","cover":"https://a.wattpad.com/cover/6110828-256-k981875.jpg","cover_timestamp":"2015-05-19T03:44:35Z","completed":false,"categories":[19,0],"tags":["carrot","carzy","cat","dog","everybody","hate","insane","love","monkey","parrot","pig","qoutes","quotes","salad","silly"],"rating":3,"url":"https://www.wattpad.com/story/6110828-random","parts":[{"id":18379353,"title":"RANDOM!!!!!!!","url":"https://www.wattpad.com/18379353-random","rating":3,"draft":false},{"id":18380167,"title":"Quotes by Dr.Suess","url":"https://www.wattpad.com/18380167-random-quotes-by-dr-suess","rating":3,"draft":false},{"id":18381912,"title":"funny quotes","url":"https://www.wattpad.com/18381912-random-funny-quotes","rating":3,"draft":false},{"id":20135190,"title":"Quotes about me","url":"https://www.wattpad.com/20135190-random-quotes-about-me","rating":3,"draft":false},{"id":20174996,"title":"Fighting","url":"https://www.wattpad.com/20174996-random-fighting","rating":3,"draft":false},{"id":20178854,"title":"10 reasons:","url":"https://www.wattpad.com/20178854-random-10-reasons","rating":3,"draft":false},{"id":20178985,"title":"Nobody Ever Told You","url":"https://www.wattpad.com/20178985-random-nobody-ever-told-you","rating":3,"draft":false},{"id":20179485,"title":"Conversation i had on omegle","url":"https://www.wattpad.com/20179485-random-conversation-i-had-on-omegle","rating":3,"draft":false},{"id":20179667,"title":"Police:Where Do You Live?","url":"https://www.wattpad.com/20179667-random-police-where-do-you-live","rating":3,"draft":false},{"id":20180906,"title":"Maybe im insane","url":"https://www.wattpad.com/20180906-random-maybe-im-insane","rating":3,"draft":false},{"id":20184909,"title":"NOTE!!!!","url":"https://www.wattpad.com/20184909-random-note","rating":3,"draft":false},{"id":20193440,"title":"For those with a dirty mind Questions just to see","url":"https://www.wattpad.com/20193440-random-for-those-with-a-dirty-mind-questions-just","rating":3,"draft":false},{"id":20193965,"title":"How to tell the sex of a fly","url":"https://www.wattpad.com/20193965-random-how-to-tell-the-sex-of-a-fly","rating":3,"draft":false},{"id":20195802,"title":"If your bored","url":"https://www.wattpad.com/20195802-random-if-your-bored","rating":3,"draft":false},{"id":20317971,"title":"random questions feel free to answer lol","url":"https://www.wattpad.com/20317971-random-questions-feel-free-to-answer-lol","rating":3,"draft":false},{"id":20240799,"title":"laugh a little","url":"https://www.wattpad.com/20240799-random-laugh-a-little","rating":3,"draft":false},{"id":20310049,"title":"Insults (Use at you own risk)","url":"https://www.wattpad.com/20310049-random-insults-use-at-you-own-risk","rating":3,"draft":false},{"id":20311249,"title":"What guys should know about girls","url":"https://www.wattpad.com/20311249-random-what-guys-should-know-about-girls","rating":3,"draft":false},{"id":20312002,"title":"what girls should know about guys *Guys P.O.V*","url":"https://www.wattpad.com/20312002-random-what-girls-should-know-about-guys-guys-p-o","rating":3,"draft":false},{"id":20312947,"title":"Funny and stupid questions to ask people","url":"https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people","rating":3,"draft":false,"active":true},{"id":20317561,"title":"Funny and cute stuuf","url":"https://www.wattpad.com/20317561-random-funny-and-cute-stuuf","rating":3,"draft":false},{"id":20329012,"title":"Random Facts Found Online","url":"https://www.wattpad.com/20329012-random-facts-found-online","rating":3,"draft":false},{"id":20329398,"title":"Curing boredom since 2013","url":"https://www.wattpad.com/20329398-random-curing-boredom-since-2013","rating":3,"draft":false},{"id":20331229,"title":"Cute and Funny things to say to a girl *Pay attention guys*","url":"https://www.wattpad.com/20331229-random-cute-and-funny-things-to-say-to-a-girl-pay","rating":3,"draft":false},{"id":20368277,"title":"What your eye color mean's","url":"https://www.wattpad.com/20368277-random-what-your-eye-color-mean%27s","rating":3,"draft":false},{"id":20372383,"title":"Your Zodiac Sign and Personality","url":"https://www.wattpad.com/20372383-random-your-zodiac-sign-and-personality","rating":3,"draft":false},{"id":20663086,"title":"Request","url":"https://www.wattpad.com/20663086-random-request","rating":3,"draft":false},{"id":20664031,"title":"North Carolina Stupid Laws","url":"https://www.wattpad.com/20664031-random-north-carolina-stupid-laws","rating":3,"draft":false},{"id":20804569,"title":"Texas stupid laws","url":"https://www.wattpad.com/20804569-random-texas-stupid-laws","rating":3,"draft":false},{"id":20805009,"title":"Tennessee stupid Laws","url":"https://www.wattpad.com/20805009-random-tennessee-stupid-laws","rating":3,"draft":false},{"id":21625319,"title":"More Quotes","url":"https://www.wattpad.com/21625319-random-more-quotes","rating":3,"draft":false},{"id":70983801,"title":"!!!!HOLY CRAP IT NOTE TIME!!!!!!!!!!!!","url":"https://www.wattpad.com/70983801-random-holy-crap-it-note-time","rating":3,"draft":false},{"id":71005261,"title":"...Conspiracies...","url":"https://www.wattpad.com/71005261-random-conspiracies","rating":3,"draft":false},{"id":71016365,"title":"Think about it...","url":"https://www.wattpad.com/71016365-random-think-about-it","rating":3,"draft":false},{"id":81159190,"title":"NOTE!!!","url":"https://www.wattpad.com/81159190-random-note","rating":3,"draft":false},{"id":83673663,"title":"Random questions to ask people....","url":"https://www.wattpad.com/83673663-random-questions-to-ask-people","rating":3,"draft":false},{"id":83678807,"title":"Deep Questions","url":"https://www.wattpad.com/83678807-random-deep-questions","rating":3,"draft":false},{"id":83679948,"title":"IMPORTANT!!!!!!!! ANOTHER BORING BUTT NOTE!!! SORRY :D","url":"https://www.wattpad.com/83679948-random-important-another-boring-butt-note-sorry-d","rating":3,"draft":false},{"id":130623605,"title":"Nothings changed","url":"https://www.wattpad.com/130623605-random-nothings-changed","rating":0,"draft":false},{"id":167079836,"title":"Serious Topic; Worth the Read","url":"https://www.wattpad.com/167079836-random-serious-topic-worth-the-read","rating":0,"draft":false}],"deleted":false,"rankings":[{"name":"Random","name_english":"Random","rank":766}],"isAdExempt":false,"draft":false,"USReader":true,"category":19,"mainCategory":"Random","mainCategoryEnglish":"Random","inLanguage":"en"},"isAuthor":null,"pageNumber":1,"firstPage":true,"lastPage":false,"isMicroPart":false,"isSmallPart":true,"isMediumPart":false,"isBigPart":false,"showAdUnit":false,"descCharLimit":130,"meta":{"url":"https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people","description":"I GOT REALLYYYYYYYYYYYYYY BORED JUST WEIRD FUNNY OR STUPID STUFF I FOUND ONLINE I OWN NOTHING!!!!","keywords":"carrot,carzy,cat,dog,everybody,hate,insane,love,monkey,parrot,pig,qoutes,quotes,salad,silly,Random,eBooks,reading,stories,fiction","image":"https://a.wattpad.com/cover/6110828-256-k981875.jpg","banner":"https://www.wattpad.com/banner?id=6110828&v=75000","title":"RANDOM!!!!!!! - Funny and stupid questions to ask people","facebook":false,"twitter":false,"apple":false,"pinterest":false,"googlePlus":false,"otherCrawler":false,"deeplink":{"ios":"wattpad://story/6110828/part/20312947","android":"wattpad://story/6110828/part/20312947"},"story":{"votes":237,"author":"AllTimeNutella13","category":"Random","tags":[{"name":"carrot"},{"name":"carzy"},{"name":"cat"},{"name":"dog"},{"name":"everybody"},{"name":"hate"},{"name":"insane"},{"name":"love"},{"name":"monkey"},{"name":"parrot"},{"name":"pig"},{"name":"qoutes"},{"name":"quotes"},{"name":"salad"},{"name":"silly"},{"name":"Random"}]},"structuredData":"{\"@context\":\"http://schema.org\",\"@type\":\"CreativeWork\",\"about\":\"Random\",\"author\":{\"name\":\"AllTimeNutella13\",\"url\":\"http://www.wattpad.com/user/AllTimeNutella13\"},\"accountablePerson\":{\"name\":\"AllTimeNutella13\",\"url\":\"http://www.wattpad.com/user/AllTimeNutella13\"},\"copyrightHolder\":{\"name\":\"AllTimeNutella13\",\"url\":\"http://www.wattpad.com/user/AllTimeNutella13\"},\"dateModified\":\"2013-11-16T22:45:50Z\",\"description\":\"I GOT REALLYYYYYYYYYYYYYY BORED JUST WEIRD FUNNY OR STUPID STUFF I FOUND ONLINE I OWN NOTHING!!!!\",\"commentCount\":112,\"contentRating\":\"everyone\",\"discussionUrl\":\"https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people#comments\",\"genre\":\"https://www.wattpad.com/stories/random\",\"headline\":\"RANDOM!!!!!!!. I GOT REALLYYYYYYYYYYYYYY BORED JUST WEIRD FUNNY OR STUPID STUFF I FOUND ONLINE I OWN NOTHING!!!!\",\"inLanguage\":\"en\",\"interactionStatistic\":1017292,\"isAccessibleForFree\":true,\"isFamilyFriendly\":true,\"keywords\":\", , , , , , , , , , , , , , , Random\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Wattpad\",\"legalName\":\"Wattpad Corp\",\"foundingDate\":\"2006\",\"foundingLocation\":\"Toronto, Ontario, Canada\",\"areaServed\":\"Global\",\"logo\":\"https://www.wattpad.com/press/assets/img/logo.jpg\",\"url\":\"https://www.wattpad.com\"},\"publishingPrinciples\":\"https://support.wattpad.com/hc/en-us/articles/200774334-Content-Guidelines\",\"thumbnailUrl\":\"https://a.wattpad.com/cover/6110828-256-k981875.jpg\",\"typicalAgeRange\":\"13-\",\"image\":\"https://a.wattpad.com/cover/6110828-256-k981875.jpg\",\"name\":\"Funny and stupid questions to ask people\",\"url\":\"https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people\",\"isPartOf\":{\"image\":\"https://a.wattpad.com/cover/6110828-256-k981875.jpg\",\"name\":\"RANDOM!!!!!!!\",\"url\":\"https://www.wattpad.com/story/6110828-random\",\"discussionUrl\":\"https://www.wattpad.com/story/6110828-random#story-tabs\",\"isAccessibleForFree\":true}}","next":"https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people/page/2"},"hide3rdPartyAuth":false,"showOpenApp":false,"openAppUrl":"wattpad://story/6110828/part/20312947","report":"Report Story","reportUrl":"/help/content?message=I+am+reporting+the+following+content%3A%0A&story_link=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people","isAdmin":false,"isModerator":false,"showAdminPanel":false,"nextPart":{"url":"https://www.wattpad.com/20317561-random-funny-and-cute-stuuf","title":"Funny and cute stuuf"},"nextPage":"https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people/page/2","ampUrl":"https://www.wattpad.com/amp/20312947","adUnit":"leaderboard","adType":"mobile","isTablet":false,"isMobile":true,"visibleCast":[],"hiddenCast":[],"media":[{"storyInfo":true,"cover":"https://a.wattpad.com/cover/6110828-256-k981875.jpg","description":"I GOT REALLYYYYYYYYYYYYYY BORED JUST WEIRD FUNNY OR STUPID STUFF I FOUND ONLINE I OWN NOTHING!!!!","title":"RANDOM!!!!!!!","category":"Random","categoryEnglish":"Random"}],"bgCover":"https://a.wattpad.com/cover/6110828-256-k981875.jpg","storyInfoFlag":true,"showCover":true,"showCarousel":false,"mediaShare":[{"name":"facebook","icon":"fa-facebook","ampIcon":"fa-facebook","label":"Share via Facebook","href":"https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dfacebook%26utm_content%3Dshare_reading"},{"name":"pinterest","icon":"fa-pinterest","ampIcon":"fa-pinterest","label":"Share via Pinterest","href":"https://www.pinterest.com/pin/create/button/?media=https%3A%2F%2Fa.wattpad.com%2Fcover%2F6110828-256-k981875.jpg&description=+%23wattpad+%23random+I+GOT+REALLYYYYYYYYYYYYYY+BORED+JUST+WEIRD+FUNNY+OR+STUPID+STUFF+I+FOUND+ONLINE+I+OWN+NOTHING%21%21%21%21&url=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dpinterest%26utm_content%3Dshare_reading"}],"socialShareVisible":[{"name":"facebook","icon":"fa-facebook","ampIcon":"fa-facebook","label":"Share via Facebook","href":"https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dfacebook%26utm_content%3Dshare_reading"},{"name":"twitter","icon":"fa-twitter","ampIcon":"fa-twitter","label":"Share via Twitter","content":"share_reading","text":"RANDOM!!!!!!! - Funny and stupid questions to ask people #wattpad","urlTemplate":"https://twitter.com/intent/tweet?text=%s&url=%s","url":"https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people","href":"https://twitter.com/intent/tweet?text=RANDOM%21%21%21%21%21%21%21+-+Funny+and+stupid+questions+to+ask+people+%23wattpad&url=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dtwitter%26utm_content%3Dshare_reading"},{"name":"pinterest","icon":"fa-pinterest","ampIcon":"fa-pinterest","label":"Share via Pinterest","href":"https://www.pinterest.com/pin/create/button/?media=https%3A%2F%2Fa.wattpad.com%2Fcover%2F6110828-256-k981875.jpg&description=+%23wattpad+%23random+I+GOT+REALLYYYYYYYYYYYYYY+BORED+JUST+WEIRD+FUNNY+OR+STUPID+STUFF+I+FOUND+ONLINE+I+OWN+NOTHING%21%21%21%21&url=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dpinterest%26utm_content%3Dshare_reading"},{"name":"tumblr","icon":"fa-tumblr","ampIcon":"fa-tumblr","label":"Share via Tumblr","text":"&lt;b&gt;RANDOM!!!!!!! - Funny and stupid questions to ask people&lt;/b&gt; (on Wattpad) %s\n\nI GOT REALLYYYYYYYYYYYYYY BORED JUST WEIRD FUNNY OR STUPID STUFF I FOUND ONLINE I OWN NOTHING!!!!","urlTemplate":"https://tumblr.com/widgets/share/tool?posttype=photo&content=https%3A%2F%2Fa.wattpad.com%2Fcover%2F6110828-256-k981875.jpg&caption=%s&tags=carrot%2Ccarzy%2Ccat%2Cdog%2Ceverybody%2Chate%2Cinsane%2Clove%2Cmonkey%2Cparrot%2Cpig%2Cqoutes%2Cquotes%2Csalad%2Csilly%2Crandom%2Cbooks%2Cwattpad%2Camreading&canonicalUrl=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people&clickthroughUrl=%s","content":"share_reading","url":"https://www.wattpad.com/20312947-random-funny-and-stupid-questions-to-ask-people","href":"https://tumblr.com/widgets/share/tool?posttype=photo&content=https%3A%2F%2Fwww.wattpad.com%2Fbanner%3Fid%3D6110828&caption=%3Cb%3ERANDOM%21%21%21%21%21%21%21+-+Funny+and+stupid+questions+to+ask+people%3C%2Fb%3E+%28on+Wattpad%29+https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dtumblr%26utm_content%3Dshare_reading%0A%0AI+GOT+REALLYYYYYYYYYYYYYY+BORED+JUST+WEIRD+FUNNY+OR+STUPID+STUFF+I+FOUND+ONLINE+I+OWN+NOTHING%21%21%21%21&tags=carrot%2Ccarzy%2Ccat%2Cdog%2Ceverybody%2Chate%2Cinsane%2Clove%2Cmonkey%2Cparrot%2Cpig%2Cqoutes%2Cquotes%2Csalad%2Csilly%2Crandom%2Cbooks%2Cwattpad%2Camreading&canonicalUrl=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people&clickthroughUrl=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dtumblr%26utm_content%3Dshare_reading"},{"name":"post-to-profile","icon":"fa-user","nopopup":true,"label":"Post to Your Profile","href":"/"}],"socialShareHidden":[{"name":"google_plus","icon":"fa-google-plus","ampIcon":"fa-google-plus","label":"Share via Google+","href":"https://plus.google.com/share?url=https%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Dgoogle_plus%26utm_content%3Dshare_reading"},{"name":"email","icon":"fa-inbox","ampIcon":"fa-envelope","label":"Share via Email","href":"mailto:?subject=RANDOM%21%21%21%21%21%21%21%20-%20Funny%20and%20stupid%20questions%20to%20ask%20people&body=RANDOM%21%21%21%21%21%21%21%20-%20Funny%20and%20stupid%20questions%20to%20ask%20people%0Ahttps%3A%2F%2Fwww.wattpad.com%2F20312947-random-funny-and-stupid-questions-to-ask-people%3Futm_source%3Dweb%26utm_medium%3Demail%26utm_content%3Dshare_reading"}],"storyText":"&lt;p data-p-id=\"a7a7886dc134801fb828f9a92ae7baa9\"&gt;~~~What happens when you get 'scared half to death' twice?&lt;/p&gt;\n&lt;p data-p-id=\"d4ff917e5c36098a9b38b7926a63b0c4\"&gt;~~~Is it true cannibals don't eat clowns because they taste funny?&lt;/p&gt;\n&lt;p data-p-id=\"8c769c6f3e75096b6b3ae48bb7ea55d2\"&gt;~~~If all the world's a stage, where does the audience sit?&lt;/p&gt;\n&lt;p data-p-id=\"32923eb1414731f92c8ba8a1f469c40a\"&gt;~~~It it's tourist season why can't we shoot them?&lt;/p&gt;\n&lt;p data-p-id=\"f1e95fbf8835ce1da32fe8bc8173c6af\"&gt;~~~Why are the alphabets in the order that they are? Is it because it's a song?&lt;/p&gt;\n&lt;p data-p-id=\"9fd6b1288e56e0a4a2d4439fb9134b71\"&gt;~~~If you write a book about failure, and it doesn't sell, is it called success?&lt;/p&gt;\n&lt;p data-p-id=\"c27c3d192234f9ffdc299e360821e97d\"&gt;~~~If work is so terrific, how come you get paid for it?&lt;/p&gt;\n&lt;p data-p-id=\"be28a00f9bbd19e7f89f6dc566d614a0\"&gt;~~~If one synchronized swimmer drowns, do the others drown too?&lt;/p&gt;\n&lt;p data-p-id=\"5743fd29b5f4c1d57d48901200670fed\"&gt;~~~Are the good things that come to people who wait, the leftovers of people who went before them?&lt;/p&gt;\n&lt;p data-p-id=\"2f541449589c936331ac5951b962f85c\"&gt;~~~Why did Yankee Doodle name the feather in his hat Macaroni?&lt;/p&gt;\n&lt;p data-p-id=\"611d15d78e68832afdf84a2ebb49b8c7\"&gt;~~~Isn't Disney World a people trap operated by a mouse?&lt;/p&gt;\n&lt;p data-p-id=\"1aacb3c97d26e77b0bf464251fc8aa5f\"&gt;~~~If electricity comes from electrons, does morality comes from morons?&lt;/p&gt;\n&lt;p data-p-id=\"ba03debbf9de70b8aa578ca270a14ccb\"&gt;~~~Why aren't blueberries blue?&lt;/p&gt;\n&lt;p data-p-id=\"bcea54dd788e8756daf488349820cad2\"&gt;~~~Why is Greenland called Greenland, when it's white and covered with ice?&lt;br&gt; &lt;br&gt; ~~~Why is the word for \"a fear of long words,\" hippopotomonstrosesquippedaliophobia, so long?&lt;/p&gt;\n&lt;p data-p-id=\"96ce36dcf8eb91b5d5a0b1f73e0a6e63\"&gt;~~~Why does someone believe you when you say there are four billion stars, but check when you say the paint is wet?&lt;/p&gt;\n&lt;p data-p-id=\"0c9b9f063b43d7398a42c7ac9bd6b805\"&gt;~~~What if Batman gets bitten by a vampire?&lt;/p&gt;\n&lt;p data-p-id=\"aa11fd2e5fab28827c6808d96be896e3\"&gt;~~~Did the Mayans get bored after reaching 2012 or is the predication for real?&lt;/p&gt;\n&lt;p data-p-id=\"d2f53b211798ec97a45d41079baf01e2\"&gt;~~~Can we spell creativity however we want?&lt;/p&gt;\n&lt;p data-p-id=\"38b86c8b01573115c191f8d5cb8e02ed\"&gt;~~~Do infants enjoy infancy as much as adults enjoy adultery?&lt;/p&gt;\n&lt;p data-p-id=\"c6ab931bc28d2a0b55ae9c3edf9117f3\"&gt;~~~Where are all the mentally handicapped parking spaces for people like me?&lt;/p&gt;\n&lt;p data-p-id=\"8adea4cbd83dc9caa4144fded7f38058\"&gt;~~~Has your mate ever called you at work to ask where the remote control is?&lt;/p&gt;\n&lt;p data-p-id=\"891e5977a966952b17ac9b67ca88e65e\"&gt;~~~Was the person who invented the Express Lane at the grocery store properly thanked?&lt;/p&gt;\n&lt;p data-p-id=\"0b67e889fb4bd16b735680cba0f03358\"&gt;~~~Why don't you ever see ads for advertising companies?&lt;/p&gt;\n&lt;p data-p-id=\"d99db6ef9f6465aaedcab3db19c6000e\"&gt;~~~Why is it that when things get wet they get darker, even though water is clear?&lt;/p&gt;\n&lt;p data-p-id=\"26a662eff3d5603e78b8a25e9ab8adee\"&gt;~~~If a fork were made of gold would it still be considered silverware?&lt;/p&gt;\n&lt;p data-p-id=\"00dabff5e02a04e7081b3f41376fb25d\"&gt;~~~Why isn't chocolate considered a vegetable, if chocolate comes from cocoa beans, and all beans are a vegetable?&lt;br&gt;&lt;br&gt;~~~If something \"goes without saying,\" why do people still say it?&lt;/p&gt;\n&lt;p data-p-id=\"529efba29d7930e8ba295292d80220f8\"&gt;~~~You know the expression, \"Don't quit your day job?\" Well what do you say to people that work nights?&lt;/p&gt;\n&lt;p data-p-id=\"27ea0d34a4763a36a6416c4ff4e8710a\"&gt;~~~Why is the 0 on a phone after 1 and not before 1?&lt;/p&gt;\n&lt;p data-p-id=\"5266d694bf6fa1b7849491afaef435dc\"&gt;~~~Why do all the superheroes wear underpants on the outside?&lt;/p&gt;\n&lt;p data-p-id=\"bae20f608a8dfaee42255aece706ed74\"&gt;~~~If the president were gay, would his husband be the first man?&lt;/p&gt;\n&lt;p data-p-id=\"abd000ed5d41f4c19ead38ce7de8e593\"&gt;~~~If you were a genie and a person asked you this wish, \"I wish you would not grant me this wish\" what would you do?&lt;/p&gt;\n&lt;p data-p-id=\"dcf6d9f447cf59e87b5d89faaace05e6\"&gt;~~~Did Noah have woodpeckers on the ark? If he did, where did he keep them?&lt;/p&gt;\n&lt;p data-p-id=\"2337895c6b09355a34829f28e17fab82\"&gt;~~~Why don't the hairs on your arms get split ends?&lt;/p&gt;\n&lt;p data-p-id=\"626723795ff376ccd87dfd63d5d0dda6\"&gt;~~~Do pyromaniacs wear blazers?&lt;/p&gt;\n&lt;p data-p-id=\"4721e36489c54d5596801598b16d118a\"&gt;~~~If you don't pay your exorcist, do you get repossessed?&lt;/p&gt;\n&lt;p data-p-id=\"58c5c87460b86e7780b36d2a697d521c\"&gt;~~~When something is funny why is it called a \"knee-slapper\" when you actually slap your thigh?&lt;/p&gt;\n&lt;p data-p-id=\"5c176cc36c07453b140b0c931b093ae2\"&gt;~~~Why do we teach kids that violence is not the answer and then have them read about wars in school that solved America's problems?&lt;/p&gt;","page":{"title":"RANDOM!!!!!!! - Funny and stupid questions to ask people"},"isDesktop":false,"isIE9OrBelow":false,"isStoryReading":true,"anonymousUser":true,"districtMTest":false,"bottomBannerImage":"https://a.wattpad.com/cover/6110828-256-k981875.jpg","bottomBannerTitle":"RANDOM!!!!!!!","dismissibleBanner":true,"showBottomBanner":true,"rank":766,"branchLink":"http://my.w.tt/a/key_live_pgerP08EdSp0oA8BT3aZqbhoqzgSpodT?medium=reading_cta&feature=reading_cta&campaign=&channel=story-reading&%24always_deeplink=1&%24fallback_url=&%24desktop_url=&%24deeplink_path=wattpad%3A%2F%2Fstory%2F6110828%2Fpart%2F20312947%3Futm_source%3Dmobileweb%26utm_medium%3Dreading_cta%26utm_content%3Dstory-reading%26wp_page%3Dstory-reading%26wp_originator%3De0r72XgRZZFe6c4G7vEEkSfU0eCXw31YV%252FxeP6CZxr4vq4%252ByBADUWgtuOj66PlDJtXD%252FPhNUj6HOpzmImXcVKl11rBuCGW6e%252F5kXYwt16kgjmoJ3VXciavvC6HYR5lxE","newDWReader":true,"newMWReader":true,"canHighlight":true}}};
+    </script>
+<script type="text/javascript">
+
+        (function() {
+            var wattpad = window.wattpad = ( window.wattpad || {} );
+
+            wattpad.avatarSizes = [24, 32, 42, 48, 64, 84, 128, 256];
+            wattpad.coverSizes = [64, 80, 100, 128, 144, 160, 176, 200, 208, 256, 288, 352, 368, 416, 512];
+            wattpad.logoSizes = [140, 280, 420];
+            wattpad.backgroundSizes = [320, 640, 720, 1280, 1920 ];
+            wattpad.utils = {};
+            wattpad.digitsClientId = 'SPwmeBsZREoxgK6TTaRTgzsrs';
+            wattpad.googleClientId = '819350800788-s42oc45ge5shd8hkimbj2broh7l6j7h6.apps.googleusercontent.com';
+            wattpad.instagramClientId = '';
+            wattpad.apiAuthKey = 'IwKhVmNM7VXhnsVb0BabhS';
+            wattpad.apiDomain = 'https://api.wattpad.com';
+            wattpad.siteRoot = 'https://www.wattpad.com';
+            wattpad.branchKey = 'key_live_pgerP08EdSp0oA8BT3aZqbhoqzgSpodT';
+            wattpad.languagePackage = '11fea3e0496e703eed55a0463b26986c';
+            wattpad.userCountryCode = 'US';
+            wattpad.testGroups = {"INBOX":false,"ORION":false,"HOMEDEBUG":false,"GEMINI":true,"GEMINI_LIBRARY":true,"GEMINI_READING_LIST":true,"INLINE_COMMENTS":true,"WRITER_MEDIA":false,"WRITER_LINKS":false,"WRITER_REVISIONS":true,"WRITER_NAV":true,"INACTIVE_STORIES":false,"NEW_DW_READER":true,"FORCED_NEW_DW_READER":false,"NEW_MW_READER":true,"FORCED_NEW_MW_READER":false,"CONSTELLATION_MOBILE":true,"Constellation":true,"V2":true,"CLIENT_METRICS":true,"LANGUAGE_DETECT":false,"EMBED":false,"FBQUOTE":true,"FORCED_HOME_AD":false,"FORCED_MOBILE_HOME_AD":false,"SEARCH_FILTERS":false,"NEW_TAG":true,"GIF_TO_VIDEO":false,"REACT_COMPONENTS":false,"DISTRICTM_HB_WRAPPER":true,"HOME_CAROUSEL":true};
+
+            wattpad.user = null;
+
+            wattpad.isModerator = 0;
+
+            wattpad.supportedLangs = [{"id":1,"name":"English","translated":true,"locale":"en_US","code":"en","nameEnglish":"English","hreflangCode":"en","selected":true},{"id":2,"name":"Français","translated":true,"locale":"fr_FR","code":"fr","nameEnglish":"French","hreflangCode":"fr"},{"id":3,"name":"Italiano","translated":true,"locale":"it_IT","code":"it","nameEnglish":"Italian","hreflangCode":"it"},{"id":4,"name":"Deutsch","translated":true,"locale":"de_DE","code":"de","nameEnglish":"German","hreflangCode":"de"},{"id":5,"name":"Español","translated":true,"locale":"es_ES","code":"es","nameEnglish":"Spanish","hreflangCode":"es"},{"id":6,"name":"Português","translated":true,"locale":"pt_PT","code":"pt_PT","nameEnglish":"Portugese","hreflangCode":"pt"},{"id":38,"name":"Català","translated":true,"locale":"ca_ES","code":"ca","nameEnglish":"Catalan","hreflangCode":"ca"},{"id":19,"name":"Tiếng Việt","translated":true,"locale":"vi_VN","code":"vi","nameEnglish":"Vietnamese","hreflangCode":"vi"},{"id":18,"name":"Filipino","translated":true,"locale":"tl_PH","code":"tl","nameEnglish":"Tagalog","hreflangCode":"tl"},{"id":20,"name":"Bahasa Indonesia","translated":true,"locale":"id_ID","code":"id","nameEnglish":"Indonesian","hreflangCode":"id"},{"id":22,"name":"Bahasa Melayu","translated":false,"locale":"ms_MY","code":"ms","nameEnglish":"Malay","hreflangCode":"ms"},{"id":32,"name":"ภาษาไทย","translated":false,"locale":"th_TH","code":"th","nameEnglish":"Thai","hreflangCode":"th"},{"id":7,"name":"Русский","translated":true,"locale":"ru_RU","code":"ru","nameEnglish":"Russian","hreflangCode":"ru"},{"id":15,"name":"Română","translated":true,"locale":"ro_RO","code":"ro","nameEnglish":"Romanian","hreflangCode":"ro"},{"id":23,"name":"Türkçe","translated":true,"locale":"tr_TR","code":"tr","nameEnglish":"Turkish","hreflangCode":"tr"},{"id":24,"name":"Česky","translated":true,"locale":"cs_CZ","code":"cs","nameEnglish":"Czech","hreflangCode":"cs"},{"id":14,"name":"Polski","translated":true,"locale":"pl_PL","code":"pl","nameEnglish":"Polish","hreflangCode":"pl"},{"id":28,"name":"Magyar","translated":true,"locale":"hu_HU","code":"hu","nameEnglish":"Hungarian","hreflangCode":"hu"},{"id":30,"name":"ελληνικά","translated":true,"locale":"el_GR","code":"el","nameEnglish":"Greek","hreflangCode":"el"},{"id":35,"name":"Eesti","translated":false,"locale":"et_EE","code":"et","nameEnglish":"Estonian","hreflangCode":"et"},{"id":36,"name":"Latviešu","translated":false,"locale":"lv_LV","code":"lv","nameEnglish":"Latvian","hreflangCode":"lv"},{"id":37,"name":"Lietuvių","translated":false,"locale":"lt_LT","code":"lt","nameEnglish":"Lithuanian","hreflangCode":"lt"},{"id":39,"name":"Босански","translated":false,"locale":"bs_BA","code":"bs","nameEnglish":"Bosnian","hreflangCode":"bs"},{"id":40,"name":"Српски","translated":false,"locale":"sr_CS","code":"sr","nameEnglish":"Serbian","hreflangCode":"sr"},{"id":41,"name":"Hrvatski","translated":false,"locale":"hr_HR","code":"hr","nameEnglish":"Croatian","hreflangCode":"hr"},{"id":43,"name":"Български","translated":false,"locale":"bg_BG","code":"bg","nameEnglish":"Bulgarian","hreflangCode":"bg"},{"id":44,"name":"Slovenčina","translated":true,"locale":"sk_SK","code":"sk","nameEnglish":"Slovak","hreflangCode":"sk"},{"id":42,"name":"Slovenščina","translated":false,"locale":"sl_SI","code":"sl","nameEnglish":"Slovenian","hreflangCode":"sl"},{"id":45,"name":"Беларускі","translated":false,"locale":"be_BY","code":"be","nameEnglish":"Belarusian","hreflangCode":"be"},{"id":46,"name":"Українська","translated":true,"locale":"uk_UA","code":"uk","nameEnglish":"Ukrainian","hreflangCode":"uk"},{"id":26,"name":"Svenska","translated":true,"locale":"sv_SE","code":"sv","nameEnglish":"Swedish","hreflangCode":"sv"},{"id":27,"name":"Norsk","translated":true,"locale":"nn_NO","code":"nn","nameEnglish":"Norwegian","hreflangCode":"nn"},{"id":34,"name":"Suomi","translated":false,"locale":"fi_FI","code":"fi","nameEnglish":"Finnish","hreflangCode":"fi"},{"id":29,"name":"Dansk","translated":true,"locale":"da_DK","code":"da","nameEnglish":"Danish","hreflangCode":"da"},{"id":13,"name":"Nederlands","translated":true,"locale":"nl_NL","code":"nl","nameEnglish":"Dutch","hreflangCode":"nl"},{"id":33,"name":"Íslenska","translated":false,"locale":"is_IS","code":"is","nameEnglish":"Icelandic","hreflangCode":"is"},{"id":12,"name":"简体中文","translated":true,"locale":"zh_CN","code":"zh_CN","nameEnglish":"Simplified Chinese","hreflangCode":"zh-Hans"},{"id":8,"name":"繁體中文","translated":true,"locale":"zh_TW","code":"zh_TW","nameEnglish":"Traditional Chinese","hreflangCode":"zh-Hant"},{"id":9,"name":"日本語","translated":true,"locale":"ja_JP","code":"ja","nameEnglish":"Japanese","hreflangCode":"ja"},{"id":10,"name":"한국어","translated":true,"locale":"ko_KR","code":"ko","nameEnglish":"Korean","hreflangCode":"ko"},{"id":16,"name":"العربية","translated":true,"locale":"ar_EG","code":"ar","nameEnglish":"Arabic","hreflangCode":"ar"},{"id":53,"name":"ગુજરાતી","translated":false,"locale":"gu_IN","code":"gu","nameEnglish":"Gujarati","hreflangCode":"gu"},{"id":17,"name":"עברית","translated":true,"locale":"he_IL","code":"he","nameEnglish":"Hebrew","hreflangCode":"he"},{"id":21,"name":"हिन्दी","translated":true,"locale":"hi_IN","code":"hi","nameEnglish":"Hindi","hreflangCode":"hi"},{"id":25,"name":"മലയാളം","translated":false,"locale":"ml_IN","code":"ml","nameEnglish":"Malayalam","hreflangCode":"ml"},{"id":54,"name":"ଓଡ଼ିଆ","translated":false,"locale":"or_IN","code":"or","nameEnglish":"Oriya","hreflangCode":"or"},{"id":31,"name":"فارسی","translated":false,"locale":"fa_IR","code":"fa","nameEnglish":"Persian","hreflangCode":"fa"},{"id":55,"name":"ਪੰਜਾਬੀ","translated":false,"locale":"pa_IN","code":"pa","nameEnglish":"Punjabi","hreflangCode":"pa"},{"id":56,"name":"অসমীয়া","translated":false,"locale":"as_IN","code":"as","nameEnglish":"Assamese","hreflangCode":"as"},{"id":47,"name":"বাংলা","translated":false,"locale":"bn_BD","code":"bn","nameEnglish":"Bengali","hreflangCode":"bn"},{"id":48,"name":"اُردُو‎","translated":false,"locale":"ur_PK","code":"ur","nameEnglish":"Urdu","hreflangCode":"ur"},{"id":49,"name":"தமிழ்","translated":false,"locale":"ta_IN","code":"ta","nameEnglish":"Tamil","hreflangCode":"ta"},{"id":50,"name":"Kiswahili","translated":false,"locale":"sw_TZ","code":"sw","nameEnglish":"Swahili","hreflangCode":"sw"},{"id":51,"name":"Afrikaans","translated":false,"locale":"af_ZA","code":"af","nameEnglish":"Afrikaans","hreflangCode":"af"},{"id":57,"name":"मराठी","translated":false,"locale":"mr_IN","code":"mr","nameEnglish":"Marathi","hreflangCode":"mr"},{"id":11,"name":"Other","translated":false,"locale":null,"code":"en","nameEnglish":"Other","hreflangCode":"en"}];
+
+            wattpad.translatedLangs = [{"id":1,"name":"English","translated":true,"locale":"en_US","code":"en","nameEnglish":"English","hreflangCode":"en","selected":true},{"id":2,"name":"Français","translated":true,"locale":"fr_FR","code":"fr","nameEnglish":"French","hreflangCode":"fr"},{"id":3,"name":"Italiano","translated":true,"locale":"it_IT","code":"it","nameEnglish":"Italian","hreflangCode":"it"},{"id":4,"name":"Deutsch","translated":true,"locale":"de_DE","code":"de","nameEnglish":"German","hreflangCode":"de"},{"id":5,"name":"Español","translated":true,"locale":"es_ES","code":"es","nameEnglish":"Spanish","hreflangCode":"es"},{"id":6,"name":"Português","translated":true,"locale":"pt_PT","code":"pt_PT","nameEnglish":"Portugese","hreflangCode":"pt"},{"id":38,"name":"Català","translated":true,"locale":"ca_ES","code":"ca","nameEnglish":"Catalan","hreflangCode":"ca"},{"id":19,"name":"Tiếng Việt","translated":true,"locale":"vi_VN","code":"vi","nameEnglish":"Vietnamese","hreflangCode":"vi"},{"id":18,"name":"Filipino","translated":true,"locale":"tl_PH","code":"tl","nameEnglish":"Tagalog","hreflangCode":"tl"},{"id":20,"name":"Bahasa Indonesia","translated":true,"locale":"id_ID","code":"id","nameEnglish":"Indonesian","hreflangCode":"id"},{"id":7,"name":"Русский","translated":true,"locale":"ru_RU","code":"ru","nameEnglish":"Russian","hreflangCode":"ru"},{"id":15,"name":"Română","translated":true,"locale":"ro_RO","code":"ro","nameEnglish":"Romanian","hreflangCode":"ro"},{"id":23,"name":"Türkçe","translated":true,"locale":"tr_TR","code":"tr","nameEnglish":"Turkish","hreflangCode":"tr"},{"id":24,"name":"Česky","translated":true,"locale":"cs_CZ","code":"cs","nameEnglish":"Czech","hreflangCode":"cs"},{"id":14,"name":"Polski","translated":true,"locale":"pl_PL","code":"pl","nameEnglish":"Polish","hreflangCode":"pl"},{"id":28,"name":"Magyar","translated":true,"locale":"hu_HU","code":"hu","nameEnglish":"Hungarian","hreflangCode":"hu"},{"id":30,"name":"ελληνικά","translated":true,"locale":"el_GR","code":"el","nameEnglish":"Greek","hreflangCode":"el"},{"id":44,"name":"Slovenčina","translated":true,"locale":"sk_SK","code":"sk","nameEnglish":"Slovak","hreflangCode":"sk"},{"id":46,"name":"Українська","translated":true,"locale":"uk_UA","code":"uk","nameEnglish":"Ukrainian","hreflangCode":"uk"},{"id":26,"name":"Svenska","translated":true,"locale":"sv_SE","code":"sv","nameEnglish":"Swedish","hreflangCode":"sv"},{"id":27,"name":"Norsk","translated":true,"locale":"nn_NO","code":"nn","nameEnglish":"Norwegian","hreflangCode":"nn"},{"id":29,"name":"Dansk","translated":true,"locale":"da_DK","code":"da","nameEnglish":"Danish","hreflangCode":"da"},{"id":13,"name":"Nederlands","translated":true,"locale":"nl_NL","code":"nl","nameEnglish":"Dutch","hreflangCode":"nl"},{"id":12,"name":"简体中文","translated":true,"locale":"zh_CN","code":"zh_CN","nameEnglish":"Simplified Chinese","hreflangCode":"zh-Hans"},{"id":8,"name":"繁體中文","translated":true,"locale":"zh_TW","code":"zh_TW","nameEnglish":"Traditional Chinese","hreflangCode":"zh-Hant"},{"id":9,"name":"日本語","translated":true,"locale":"ja_JP","code":"ja","nameEnglish":"Japanese","hreflangCode":"ja"},{"id":10,"name":"한국어","translated":true,"locale":"ko_KR","code":"ko","nameEnglish":"Korean","hreflangCode":"ko"},{"id":16,"name":"العربية","translated":true,"locale":"ar_EG","code":"ar","nameEnglish":"Arabic","hreflangCode":"ar"},{"id":17,"name":"עברית","translated":true,"locale":"he_IL","code":"he","nameEnglish":"Hebrew","hreflangCode":"he"},{"id":21,"name":"हिन्दी","translated":true,"locale":"hi_IN","code":"hi","nameEnglish":"Hindi","hreflangCode":"hi"}];
+
+            wattpad.experiments = {"thirdPartySignup":{"key":"718d9463966d6708806e5f18f23d7eeaa586239d","variation":"original","status":"finished"},"valueProp":{"key":"49a743623f5036601b8e832b97ef4f507e2c5b11","variation":"value_prop_arrow","status":"finished"},"existingUserHome":{"key":"3876cda7837262917c62da216f9a2efee1771bc2","variation":"unknown","status":"disabled"},"newUserHome":{"key":"3e796ef84f6cf7f192eb1b1416f26b55a134dadb","variation":"unknown","status":"disabled"},"MobileReadingCTA":{"key":"77765d73f5de2fdfe83e3aa90b707a238926a810","variation":"unknown","status":"disabled"},"facebookShare":{"key":"2494229ac2a8495f78c3c505ede4f14249a5bf98","variation":"unknown","status":"disabled"},"desktopHomeAds":{"key":"2fc8adde4bbb0a566685283d5507d6879875fc36","variation":"unknown","status":"disabled"},"mobileHomeAds":{"key":"0bf905bddb6b71f156be5e48c811e74ea673ca39","variation":"original","status":"finished"},"headerBidding":{"key":"b2c80e7b0c3208108aa5a568a563ad903c724ab3","variation":"unknown","status":"disabled"},"forceAgeInput":{"key":"9a2f57258f257f15ab924c31b9c56495c7cbf2b6","variation":"original","status":"finished"},"lastUpdatedMeta":{"key":"e4d70f19f4d08d0452e3093c8f3250ca113c41b9","variation":"original","status":"finished"},"mobilewebnavbar":{"key":"e8dfafd056f76c8be33b1feb74b643d60838abf5","variation":"navandsearch","status":"finished"}};
+
+            wattpad.harm = [{"words":["suicide","depression","depressed","cut","cuts","cutting","selfharm","self harm","self-harm","I want to die","I want to kill myself"],"message":["If you or someone you know is struggling with thoughts of self-harm or suicide, please know that help is available.%s For residents in the U.S. and Canada, please contact 1-800-273-TALK (8255).%s Help for other countries can be found at %s.","<br/><br/>","<br/>","<a href=\"http://w.tt/1csPgyo\" target=\"_blank\">http://w.tt/1csPgyo</a>"]},{"words":["pro-ana","proana","anorexia","anorexic","bulimia","bulimic","thinspo","thinspiration","promia"],"message":["If you or someone you know is struggling with an eating disorder or weight issues, please know that help is available.%s For residents in the U.S., contact the National Eating Disorders Association Helpline at 1-800-931-2237 (%s).%s For residents in Canada, contact 1-866-633-4220 (%s).%s Help for other countries can be found at %s.","<br/><br/>","<a href=\"http://www.nationaleatingdisorders.org\" target=\"_blank\">www.nationaleatingdisorders.org</a>","<br/><br/>","<a href=\"http://www.nedic.ca\" target=\"_blank\">www.nedic.ca</a>","<br/><br/>","<a href=\"http://w.tt/1csPgyo\" target=\"_blank\">http://w.tt/1csPgyo</a>"]}];
+
+          wattpad.mediaServer = '//a.wattpad.com';
+          wattpad.matureTags = '["blowjobs","bbwlove","nymphets","groupsex"]';
+          wattpad.mediaService = '//loadbalancer-media-production-1.wattpad.com';
+        }());
+    </script>
+<script type="text/javascript">
+      window.mobileApp=window.mobileApp||{},window.mobileApp.xhrLoad=function(e){"use strict";e.XMLHttpFactories=[function(){return new e.XMLHttpRequest},function(){return new ActiveXObject("Msxml2.XMLHTTP")},function(){return new ActiveXObject("Msxml3.XMLHTTP")},function(){return new ActiveXObject("Microsoft.XMLHTTP")}],e.createXMLHTTPObject=function(){for(var t=!1,n=0;n<e.XMLHttpFactories.length;n++){try{t=e.XMLHttpFactories[n]()}catch(r){continue}break}return t},e.injectScript=function(t){var n=e.createXMLHTTPObject();if(n)try{n.onreadystatechange(function(){if(4===n.readyState&&200===n.status){var t=e.document.createElement("script");t.type="text/javascript",t.text=n.responseText,e.document.getElementsByTagName("head")[0].appendChild(t)}}),n.open("GET",t,!1),n.send("")}catch(r){}}},window.mobileApp.xhrLoad(window),window.mobileApp.reload=function(e,t,n){"use strict";var r,i;if("undefined"!=typeof window.dependencyFailure&&!window.dependencyFailure){i=function(e){for(var t,n=0,r=e.length;r>n;n++){t=window;for(var i=0,o=e[n].obj.length;o>i;i++){if("undefined"==typeof t[e[n].obj[i]])return e[n].name;t=t[e[n].obj[i]]}}return!1},r=function(){for(var e="",t="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",n=0;7>n;n++)e+=t.charAt(Math.floor(Math.random()*t.length));return e};var o=e||t,c=o.split("?"),a=c.length>1?c[1]:"v="+r();if(o=c[0]||o,!o||!i(n))return;if(window.injectScript(o+"?"+a),!o||!i(n))return;window.injectScript(t+"?"+a),window.dependencyFailure=(o?"":"no-src|")+i(n)}};
+//# sourceMappingURL=xhr-load.min.js.map
+
+</script>
+<script type="text/javascript">
+        window.dependencyFailure = false;
+    </script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js" crossorigin="anonymous"></script>
+<script type='text/javascript'>
+        if (typeof window.jQuery === "undefined") {
+            document.write('<script type="text/javascript" src="/js/jquery-1.12.2.min.js"><\/script>');
+        }
+    </script>
+<script type="text/javascript">
+      !function(e){"use strict";e.mobileApp=e.mobileApp||{},e.mobileApp.reload(null,"https://www.wattpad.com/js/jquery-1.12.2.min.js",[{name:"jquery",obj:["jQuery"]}])}(window);
+//# sourceMappingURL=jquery-retry.min.js.map
+
+</script>
+<script type="text/javascript">
+      !function(t){"object"==typeof exports?module.exports=t():"function"==typeof define&&define.amd?define(t):"undefined"!=typeof window?window.Promise=t():"undefined"!=typeof global?global.Promise=t():"undefined"!=typeof self&&(self.Promise=t())}(function(){var t;return function e(t,n,o){function r(u,c){if(!n[u]){if(!t[u]){var f="function"==typeof require&&require;if(!c&&f)return f(u,!0);if(i)return i(u,!0);throw new Error("Cannot find module '"+u+"'")}var s=n[u]={exports:{}};t[u][0].call(s.exports,function(e){var n=t[u][1][e];return r(n?n:e)},s,s.exports,e,t,n,o)}return n[u].exports}for(var i="function"==typeof require&&require,u=0;u<o.length;u++)r(o[u]);return r}({1:[function(t,e,n){var o=t("../lib/decorators/unhandledRejection"),r=o(t("../lib/Promise"));e.exports="undefined"!=typeof global?global.Promise=r:"undefined"!=typeof self?self.Promise=r:r},{"../lib/Promise":2,"../lib/decorators/unhandledRejection":4}],2:[function(e,n,o){!function(t){"use strict";t(function(t){var e=t("./makePromise"),n=t("./Scheduler"),o=t("./env").asap;return e({scheduler:new n(o)})})}("function"==typeof t&&t.amd?t:function(t){n.exports=t(e)})},{"./Scheduler":3,"./env":5,"./makePromise":7}],3:[function(e,n,o){!function(t){"use strict";t(function(){function t(t){this._async=t,this._running=!1,this._queue=this,this._queueLen=0,this._afterQueue={},this._afterQueueLen=0;var e=this;this.drain=function(){e._drain()}}return t.prototype.enqueue=function(t){this._queue[this._queueLen++]=t,this.run()},t.prototype.afterQueue=function(t){this._afterQueue[this._afterQueueLen++]=t,this.run()},t.prototype.run=function(){this._running||(this._running=!0,this._async(this.drain))},t.prototype._drain=function(){for(var t=0;t<this._queueLen;++t)this._queue[t].run(),this._queue[t]=void 0;for(this._queueLen=0,this._running=!1,t=0;t<this._afterQueueLen;++t)this._afterQueue[t].run(),this._afterQueue[t]=void 0;this._afterQueueLen=0},t})}("function"==typeof t&&t.amd?t:function(t){n.exports=t()})},{}],4:[function(e,n,o){!function(t){"use strict";t(function(t){function e(t){throw t}function n(){}var o=t("../env").setTimer,r=t("../format");return function(t){function i(t){t.handled||(l.push(t),a("Potentially unhandled rejection ["+t.id+"] "+r.formatError(t.value)))}function u(t){var e=l.indexOf(t);e>=0&&(l.splice(e,1),h("Handled previous rejection ["+t.id+"] "+r.formatObject(t.value)))}function c(t,e){p.push(t,e),null===d&&(d=o(f,0))}function f(){for(d=null;p.length>0;)p.shift()(p.shift())}var s,a=n,h=n;"undefined"!=typeof console&&(s=console,a="undefined"!=typeof s.error?function(t){s.error(t)}:function(t){s.log(t)},h="undefined"!=typeof s.info?function(t){s.info(t)}:function(t){s.log(t)}),t.onPotentiallyUnhandledRejection=function(t){c(i,t)},t.onPotentiallyUnhandledRejectionHandled=function(t){c(u,t)},t.onFatalRejection=function(t){c(e,t.value)};var p=[],l=[],d=null;return t}})}("function"==typeof t&&t.amd?t:function(t){n.exports=t(e)})},{"../env":5,"../format":6}],5:[function(e,n,o){!function(t){"use strict";t(function(t){function e(){return"undefined"!=typeof process&&"[object process]"===Object.prototype.toString.call(process)}function n(){return"function"==typeof MutationObserver&&MutationObserver||"function"==typeof WebKitMutationObserver&&WebKitMutationObserver}function o(t){function e(){var t=n;n=void 0,t()}var n,o=document.createTextNode(""),r=new t(e);r.observe(o,{characterData:!0});var i=0;return function(t){n=t,o.data=i^=1}}var r,i="undefined"!=typeof setTimeout&&setTimeout,u=function(t,e){return setTimeout(t,e)},c=function(t){return clearTimeout(t)},f=function(t){return i(t,0)};if(e())f=function(t){return process.nextTick(t)};else if(r=n())f=o(r);else if(!i){var s=t,a=s("vertx");u=function(t,e){return a.setTimer(e,t)},c=a.cancelTimer,f=a.runOnLoop||a.runOnContext}return{setTimer:u,clearTimer:c,asap:f}})}("function"==typeof t&&t.amd?t:function(t){n.exports=t(e)})},{}],6:[function(e,n,o){!function(t){"use strict";t(function(){function t(t){var n="object"==typeof t&&null!==t&&(t.stack||t.message)?t.stack||t.message:e(t);return t instanceof Error?n:n+" (WARNING: non-Error used)"}function e(t){var e=String(t);return"[object Object]"===e&&"undefined"!=typeof JSON&&(e=n(t,e)),e}function n(t,e){try{return JSON.stringify(t)}catch(n){return e}}return{formatError:t,formatObject:e,tryStringify:n}})}("function"==typeof t&&t.amd?t:function(t){n.exports=t()})},{}],7:[function(e,n,o){!function(t){"use strict";t(function(){return function(t){function e(t,e){this._handler=t===_?e:n(t)}function n(t){function e(t){r.resolve(t)}function n(t){r.reject(t)}function o(t){r.notify(t)}var r=new b;try{t(e,n,o)}catch(i){n(i)}return r}function o(t){return S(t)?t:new e(_,new x(y(t)))}function r(t){return new e(_,new x(new P(t)))}function i(){return $}function u(){return new e(_,new b)}function c(t,e){var n=new b(t.receiver,t.join().context);return new e(_,n)}function f(t){return a(K,null,t)}function s(t,e){return a(F,t,e)}function a(t,n,o){function r(e,r,u){u.resolved||h(o,i,e,t(n,r,e),u)}function i(t,e,n){a[t]=e,0===--s&&n.become(new q(a))}for(var u,c="function"==typeof n?r:i,f=new b,s=o.length>>>0,a=new Array(s),p=0;p<o.length&&!f.resolved;++p)u=o[p],void 0!==u||p in o?h(o,c,p,u,f):--s;return 0===s&&f.become(new q(a)),new e(_,f)}function h(t,e,n,o,r){if(U(o)){var i=m(o),u=i.state();0===u?i.fold(e,n,void 0,r):u>0?e(n,i.value,r):(r.become(i),p(t,n+1,i))}else e(n,o,r)}function p(t,e,n){for(var o=e;o<t.length;++o)l(y(t[o]),n)}function l(t,e){if(t!==e){var n=t.state();0===n?t.visit(t,void 0,t._unreport):0>n&&t._unreport()}}function d(t){return"object"!=typeof t||null===t?r(new TypeError("non-iterable passed to race()")):0===t.length?i():1===t.length?o(t[0]):v(t)}function v(t){var n,o,r,i=new b;for(n=0;n<t.length;++n)if(o=t[n],void 0!==o||n in t){if(r=y(o),0!==r.state()){i.become(r),p(t,n+1,r);break}r.visit(i,i.resolve,i.reject)}return new e(_,i)}function y(t){return S(t)?t._handler.join():U(t)?j(t):new q(t)}function m(t){return S(t)?t._handler.join():j(t)}function j(t){try{var e=t.then;return"function"==typeof e?new g(e,t):new q(t)}catch(n){return new P(n)}}function _(){}function w(){}function b(t,n){e.createContext(this,n),this.consumers=void 0,this.receiver=t,this.handler=void 0,this.resolved=!1}function x(t){this.handler=t}function g(t,e){b.call(this),I.enqueue(new E(t,e,this))}function q(t){e.createContext(this),this.value=t}function P(t){e.createContext(this),this.id=++Y,this.value=t,this.handled=!1,this.reported=!1,this._report()}function R(t,e){this.rejection=t,this.context=e}function C(t){this.rejection=t}function O(){return new P(new TypeError("Promise cycle"))}function T(t,e){this.continuation=t,this.handler=e}function Q(t,e){this.handler=e,this.value=t}function E(t,e,n){this._then=t,this.thenable=e,this.resolver=n}function L(t,e,n,o,r){try{t.call(e,n,o,r)}catch(i){o(i)}}function k(t,e,n,o){this.f=t,this.z=e,this.c=n,this.to=o,this.resolver=X,this.receiver=this}function S(t){return t instanceof e}function U(t){return("object"==typeof t||"function"==typeof t)&&null!==t}function H(t,n,o,r){return"function"!=typeof t?r.become(n):(e.enterContext(n),W(t,n.value,o,r),void e.exitContext())}function N(t,n,o,r,i){return"function"!=typeof t?i.become(o):(e.enterContext(o),z(t,n,o.value,r,i),void e.exitContext())}function M(t,n,o,r,i){return"function"!=typeof t?i.notify(n):(e.enterContext(o),A(t,n,r,i),void e.exitContext())}function F(t,e,n){try{return t(e,n)}catch(o){return r(o)}}function W(t,e,n,o){try{o.become(y(t.call(n,e)))}catch(r){o.become(new P(r))}}function z(t,e,n,o,r){try{t.call(o,e,n,r)}catch(i){r.become(new P(i))}}function A(t,e,n,o){try{o.notify(t.call(n,e))}catch(r){o.notify(r)}}function J(t,e){e.prototype=V(t.prototype),e.prototype.constructor=e}function K(t,e){return e}function D(){}function G(){return"undefined"!=typeof process&&null!==process&&"function"==typeof process.emit?function(t,e){return"unhandledRejection"===t?process.emit(t,e.value,e):process.emit(t,e)}:"undefined"!=typeof self&&"function"==typeof CustomEvent?function(t,e,n){var o=!1;try{var r=new n("unhandledRejection");o=r instanceof n}catch(i){}return o?function(t,o){var r=new n(t,{detail:{reason:o.value,key:o},bubbles:!1,cancelable:!0});return!e.dispatchEvent(r)}:t}(D,self,CustomEvent):D}var I=t.scheduler,B=G(),V=Object.create||function(t){function e(){}return e.prototype=t,new e};e.resolve=o,e.reject=r,e.never=i,e._defer=u,e._handler=y,e.prototype.then=function(t,e,n){var o=this._handler,r=o.join().state();if("function"!=typeof t&&r>0||"function"!=typeof e&&0>r)return new this.constructor(_,o);var i=this._beget(),u=i._handler;return o.chain(u,o.receiver,t,e,n),i},e.prototype["catch"]=function(t){return this.then(void 0,t)},e.prototype._beget=function(){return c(this._handler,this.constructor)},e.all=f,e.race=d,e._traverse=s,e._visitRemaining=p,_.prototype.when=_.prototype.become=_.prototype.notify=_.prototype.fail=_.prototype._unreport=_.prototype._report=D,_.prototype._state=0,_.prototype.state=function(){return this._state},_.prototype.join=function(){for(var t=this;void 0!==t.handler;)t=t.handler;return t},_.prototype.chain=function(t,e,n,o,r){this.when({resolver:t,receiver:e,fulfilled:n,rejected:o,progress:r})},_.prototype.visit=function(t,e,n,o){this.chain(X,t,e,n,o)},_.prototype.fold=function(t,e,n,o){this.when(new k(t,e,n,o))},J(_,w),w.prototype.become=function(t){t.fail()};var X=new w;J(_,b),b.prototype._state=0,b.prototype.resolve=function(t){this.become(y(t))},b.prototype.reject=function(t){this.resolved||this.become(new P(t))},b.prototype.join=function(){if(!this.resolved)return this;for(var t=this;void 0!==t.handler;)if(t=t.handler,t===this)return this.handler=O();return t},b.prototype.run=function(){var t=this.consumers,e=this.handler;this.handler=this.handler.join(),this.consumers=void 0;for(var n=0;n<t.length;++n)e.when(t[n])},b.prototype.become=function(t){this.resolved||(this.resolved=!0,this.handler=t,void 0!==this.consumers&&I.enqueue(this),void 0!==this.context&&t._report(this.context))},b.prototype.when=function(t){this.resolved?I.enqueue(new T(t,this.handler)):void 0===this.consumers?this.consumers=[t]:this.consumers.push(t)},b.prototype.notify=function(t){this.resolved||I.enqueue(new Q(t,this))},b.prototype.fail=function(t){var e="undefined"==typeof t?this.context:t;this.resolved&&this.handler.join().fail(e)},b.prototype._report=function(t){this.resolved&&this.handler.join()._report(t)},b.prototype._unreport=function(){this.resolved&&this.handler.join()._unreport()},J(_,x),x.prototype.when=function(t){I.enqueue(new T(t,this))},x.prototype._report=function(t){this.join()._report(t)},x.prototype._unreport=function(){this.join()._unreport()},J(b,g),J(_,q),q.prototype._state=1,q.prototype.fold=function(t,e,n,o){N(t,e,this,n,o)},q.prototype.when=function(t){H(t.fulfilled,this,t.receiver,t.resolver)};var Y=0;J(_,P),P.prototype._state=-1,P.prototype.fold=function(t,e,n,o){o.become(this)},P.prototype.when=function(t){"function"==typeof t.rejected&&this._unreport(),H(t.rejected,this,t.receiver,t.resolver)},P.prototype._report=function(t){I.afterQueue(new R(this,t))},P.prototype._unreport=function(){this.handled||(this.handled=!0,I.afterQueue(new C(this)))},P.prototype.fail=function(t){this.reported=!0,B("unhandledRejection",this),e.onFatalRejection(this,void 0===t?this.context:t)},R.prototype.run=function(){this.rejection.handled||this.rejection.reported||(this.rejection.reported=!0,B("unhandledRejection",this.rejection)||e.onPotentiallyUnhandledRejection(this.rejection,this.context))},C.prototype.run=function(){this.rejection.reported&&(B("rejectionHandled",this.rejection)||e.onPotentiallyUnhandledRejectionHandled(this.rejection))},e.createContext=e.enterContext=e.exitContext=e.onPotentiallyUnhandledRejection=e.onPotentiallyUnhandledRejectionHandled=e.onFatalRejection=D;var Z=new _,$=new e(_,Z);return T.prototype.run=function(){this.handler.join().when(this.continuation)},Q.prototype.run=function(){var t=this.handler.consumers;if(void 0!==t)for(var e,n=0;n<t.length;++n)e=t[n],M(e.progress,this.value,this.handler,e.receiver,e.resolver)},E.prototype.run=function(){function t(t){o.resolve(t)}function e(t){o.reject(t)}function n(t){o.notify(t)}var o=this.resolver;L(this._then,this.thenable,t,e,n)},k.prototype.fulfilled=function(t){this.f.call(this.c,this.z,t,this.to)},k.prototype.rejected=function(t){this.to.reject(t)},k.prototype.progress=function(t){this.to.notify(t)},e}})}("function"==typeof t&&t.amd?t:function(t){n.exports=t()})},{}]},{},[1])(1)});
+//# sourceMappingURL=Promise.min.js.map
+
+</script>
+<script>
+        var wp = window.wattpad || {};
+        wp.utils = {};
+        wp.app_id = 2582347323;
+        wp.facebook_app_name = 'wattpad';
+    </script>
+<script type="text/javascript" src="//a.wattpad.com/js/mobile-web/dependencies.min.js?v&#x3D;53e5639"></script>
+<script>
+    moment.locale('en_US');
+  </script>
+<script type="text/javascript" src="//a.wattpad.com/js/mobile-web/app.min.js?v&#x3D;0387e91"></script>
+<script type="text/javascript">
+      window.mobileApp=window.mobileApp||{},window.mobileApp.appStart=function(e){"use strict";"undefined"==typeof e.dependencyFailure||e.dependencyFailure?(e.onerror=null,e.document.cookie="mw-no=true; path=/",e.location.reload(!0)):$(function(){$.ajaxSetup({beforeSend:function(e,t){/\/(apiv2|api\/v3|v4|v5)\//.test(t.url)&&e.setRequestHeader("Authorization",app.get("api-key-web"))}}),e.app.start({pushState:!0})})},window.mobileApp.appStart(window);
+//# sourceMappingURL=app-start.min.js.map
+
+</script>
+<script type="text/javascript">
+      !function(a,b,c,d,e,f,g){a.wpAnalytics=e,a[e]=a[e]||[],
+        a[e].push=function(){
+          null!==arguments[arguments.length-1]&&"object"==typeof arguments[arguments.length-1]
+            ?arguments[arguments.length-1].ts=1*new Date
+            :Array.prototype.push.call(arguments,{ts:1*new Date}),
+            Array.prototype.push.call(this,arguments)
+        },f=b.createElement(c),g=b.getElementsByTagName(c)[0],
+        f.async=1,f.src=d,g.parentNode.insertBefore(f,g)
+      }(window,window.document,"script","//a.wattpad.com/js/tracker/app.js?v=2ea7d77","te");
+    </script>
+<script type="text/javascript">
+      window.te.push('create', 'mobile-web', null, window.wattpad.user ? window.wattpad.user.id : null);
+    </script>
+<script type="text/javascript">
+      (function() {
+          var ad = document.getElementById( 'ad-bait' );
+          if ( !ad || ad.innerHTML.length === 0 || ad.clientHeight === 0 ) {
+              window.wattpad.utils.pushEvent( {
+                  category: 'ads',
+                  action: 'ad-block-on'
+              } );
+          }
+          ad.style.display = 'none';
+      })();
+  </script>
+<script type="text/javascript">
+    (function() {
+        var referer = undefined;
+
+      var parseUrl = function() {
+        var parsedUrl = document.URL.match( /^(?:https?\:\/\/)?(?:www\.)?(?:[^\/?#]+)(?:\/)([a-zA-z0-9]+)?(?:\/)?([-a-zA-Z]+|[0-9]+)?(?:[\/]?[\?]?(?:view=|q=))?([a-zA-Z\+]+)?/i );
+        return {
+          page : parsedUrl[1],
+          view : parsedUrl[2],
+          storyid : parsedUrl[2],
+          filter : parsedUrl[3]
+        }
+      };
+
+      this.top.location !== this.location && (this.top.location = this.location);
+
+      var teSend = function( eventType, referer, page, filter, storyid ) {
+        if ( window.te === undefined ) {
+          return;
+        }
+
+        if ( page === 'story' || !isNaN( page ) ) {
+          if ( !isNaN( page ) ) {
+            storyid = parseInt( page );
+            page = 'story';
+          } else {
+            storyid = parseInt( storyid );
+          }
+
+          window.te.push( 'event', 'wattpad', null, null, eventType, { 'referer': referer, 'page': page, 'storyid': storyid } );
+          return;
+        } else if ( typeof page === 'undefined' ) {
+          page = 'signup';
+        }
+
+        window.te.push( 'event', 'wattpad', null, null, eventType, { 'referer': referer, 'page': page, 'filter': filter } );
+      };
+
+      var trackNavigation = function() {
+        var parsedUrl = parseUrl();
+
+        if ( parsedUrl.page && parsedUrl.page.indexOf( 'stories' ) > -1 && parsedUrl.view !== undefined ) {
+          page = parsedUrl.view;
+        }
+
+        if ( referer === undefined ) {
+          teSend( 'start', 'direct', parsedUrl.page, parsedUrl.filter, parsedUrl.storyid );
+          return;
+        }
+
+        var pagereferer = referer.match( /^(https?\:\/\/)?(?:www\.)?([^\/?#]+)(?:[\/?#]|$)/i )[2];
+        if ( pagereferer.indexOf( 'wattpad' ) > -1 ) {
+          teSend( 'navigate', null, parsedUrl.page, parsedUrl.filter, parsedUrl.storyid );
+        }
+        else {
+          teSend( 'start', pagereferer, parsedUrl.page, parsedUrl.filter, parsedUrl.storyid );
+        }
+      };
+
+      var getReferral = function() {
+        if ( _.isEmpty(window._utms) ) {
+          return;
+        }
+        var details = {
+            source: window._utms.source,
+            channel: window._utms.medium,
+            content: window._utms.content,
+            campaign: window._utms.campaign,
+            page: window._utms.page,
+            originator: window._utms.originator
+          },
+          path = window.location.pathname,
+          entity = '';
+
+        if ( path.indexOf( 'comment' ) > 0 ) {
+          entity = 'comment';
+          details.partid = document.URL.match( /\/(\d){2,}/i )[1];
+        }
+        else if ( path.indexOf( 'story' ) > 0 ) {
+          entity = 'story';
+          details.storyid = document.URL.match( /\/story\/(\w*)/i )[1];
+        }
+        else if ( path.indexOf( 'user' ) > 0 ) {
+          entity = 'user';
+          details.username = document.URL.match( /\/user\/(\w*)/i )[1];
+        }
+        else if ( path.indexOf( 'list' ) > 0 ) {
+          entity = 'reading_list';
+          details.reading_listid = document.URL.match( /\/list\/(\w*)/i )[1];
+        }
+        else {
+          var match = document.URL.match( /\/(\d{2,})/i );
+          if (match !== null) {
+            entity = 'part';
+            details.partid = match[1];
+          }
+          else {
+            entity = 'other';
+          }
+        }
+
+        window.te.push( 'event', 'wattpad', entity, null, 'deeplink', details );
+      };
+
+      trackNavigation();
+      getReferral();
+    })();
+  </script>
+<script>
+    wattpad.translation = {"":{"domain":"messages","plural_forms":"nplurals=2; plural=(n != 1);","lang":"en"},"Sign up for free to keep reading":[""],"Continue with Facebook":[""],"OR":[""],"Username":[""],"Email":[""],"Password":[""],"Keep Reading":[""],"Already a Wattpad member?":[""],"Log in":[""],"I agree to Wattpad's <a href=\"/terms\">Terms of Service</a> and <a href=\"/privacy\">Privacy Policy</a>.":[""],"Leave a comment":[""],"Post":[""],"Report Story":[""],"%1$s - %2$s":[""],"Share via Facebook":[""],"Share via Twitter":[""],"Share via Pinterest":[""],"Share via Tumblr":[""],"Post to Your Profile":[""],"Embed Story":[""],"Share via Google+":[""],"Share via Email":[""],"by %s":[""],"by":[""],"Vote":[""],"There was an error registering your vote":[""],"YOU ARE READING":[""],"Share on Facebook":[""],"Share on Pinterest":[""],"%s Read":["",""],"Writer: %s":[""],"by <a class='on-navigate' href='/user/%s'>%s</a>":[""],"Add":[""],"Load More Pages":[""],"Continue Reading the Next Part":[""],"You'll also like":[""],"Add to Reading List":[""],"New Reading List":[""],"Please name your reading list":[""],"Enter Reading List name":[""],"Cancel":[""],"Create":[""],"Search by title or topic":[""],"View Full Site":[""],"Language":[""],"Get the App":[""],"Read this story for FREE!":[""],"Sign Up":[""]};
+  </script>
+<script type="text/javascript">
+      !function(){function n(n){var e,d={focus:"visible",focusin:"visible",pageshow:"visible",blur:"hidden",focusout:"hidden",pagehide:"hidden"};n=n||window.event,e=n.type in d?"hidden"===d[n.type]?"stop":"start":this[i]?"stop":"start",window.te.push("event","app","session",null,e,{})}var i="hidden";i in document?document.addEventListener("visibilitychange",n):(i="mozHidden")in document?document.addEventListener("mozvisibilitychange",n):(i="webkitHidden")in document?document.addEventListener("webkitvisibilitychange",n):(i="msHidden")in document?document.addEventListener("msvisibilitychange",n):"onfocusin"in document?document.onfocusin=document.onfocusout=n:window.onpageshow=window.onpagehide=window.onfocus=window.onblur=n,void 0!==document[i]&&n({type:document[i]?"blur":"focus"})}();
+//# sourceMappingURL=page-visibility.min.js.map
+
+</script>
+</body>
+</html>
